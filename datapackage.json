@@ -1,0 +1,13 @@
+{
+  "name": "us-911-commission",
+  "title": "The 9/11 Commission Report",
+  "resources": [
+    {
+      "title": "Final Report of the National Commission on Terrorist Attacks Upon the United States",
+      "path": "archive/911Report.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{ "web": "https://www.9-11commission.gov/report/911Report.pdf" }]
+    }
+  ]
+}

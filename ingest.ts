@@ -1,4 +1,4 @@
-import { pipeline, runningFurniture, type SplitPage } from "@rtm/ingest";
+import { endnotes, numberedSections, pipeline, runningFurniture, type SplitPage } from "@rtm/ingest";
 
 /**
  * Every page of this PDF opens with an Adobe InDesign output slug the
@@ -63,7 +63,19 @@ export default pipeline({
       sha256: "6fa7e90a750a3e1168c06d859369896b1ee377ca314a251c9c6d7db3f87462d8",
     },
   ],
-  // Strip the InDesign slug (and recover the page number from it) before the
-  // running-furniture test looks at the page edges.
-  passes: [productionSlug(), runningFurniture()],
+  passes: [
+    // Every note is an endnote, numbered afresh per chapter in the Notes at
+    // the back; no page carries a footnote block. Read as page-foot notes,
+    // the notes pages' chapter heads ("11 Foresight—and Hindsight") became
+    // notes that nothing refers to, swallowing the chapter's first notes.
+    endnotes(),
+    // The contents numbers every section ("8.1 The Summer of Threat"); the
+    // body sets them in capitals under each chapter's banner, and read as
+    // caps headings they fused onto the banner or were lost into the prose.
+    numberedSections(),
+    // Strip the InDesign slug (and recover the page number from it) before
+    // the running-furniture test looks at the page edges.
+    productionSlug(),
+    runningFurniture(),
+  ],
 });

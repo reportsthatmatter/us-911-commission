@@ -1,11 +1,11 @@
 {
-  "markdownSha": "f6bf1149fc86812c44808d1882e62e540cffd515c72cf105036b5415d851769a",
-  "words": 299259,
+  "markdownSha": "f36e5d3b57e452423a69eac84d212a7cd08496855392c85eafa5085e70c7481a",
+  "words": 299866,
   "blocks": {
-    "heading": 118,
-    "quote": 402,
-    "list": 145,
-    "paragraph": 3893
+    "heading": 116,
+    "quote": 113,
+    "list": 140,
+    "paragraph": 2536
   },
   "headings": [
     "REPORT",
@@ -123,11 +123,9 @@
     "ELEVENTH PUBLIC HEARING",
     "TWELFTH PUBLIC HEARING",
     "NOTES",
-    "Government's Evidentiary Proffer Supporting the Admissibility of Co-Conspirator Statements, United States",
-    "Government's Evidentiary Proffer Supporting the Admissibility of Co-Conspirator Statements, United States",
-    "PDD-62, \"Protection Against Unconventional Threats to the Homeland and Americans Overseas,\" May"
+    "Notes"
   ],
-  "footnotes": 0,
-  "pageMarkers": 563,
+  "footnotes": 1749,
+  "pageMarkers": 446,
   "poppler": "26.08.0"
 }

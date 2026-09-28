@@ -1,6 +1,6 @@
 # Fidelity review — The 9/11 Commission Report
 
-Pages: 585  ·  Footnotes: 0  ·  Auto-fixes applied: 617  ·  Human corrections: 0
+Pages: 585  ·  Footnotes: 1749  ·  Auto-fixes applied: 617  ·  Human corrections: 0
 
 **139 open**, 0 reviewed and judged correct.
 

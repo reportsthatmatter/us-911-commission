@@ -1,4 +1,4 @@
-import { endnotes, numberedSections, pipeline, runningFurniture, type SplitPage } from "@rtm/ingest";
+import { contentsEntries, endnotes, numberedSections, pageBreakContinuations, pipeline, runningFurniture, shortSubheads, unlistedHeadingsMinor, type SplitPage } from "@rtm/ingest";
 
 /**
  * Every page of this PDF opens with an Adobe InDesign output slug the
@@ -73,9 +73,16 @@ export default pipeline({
     // body sets them in capitals under each chapter's banner, and read as
     // caps headings they fused onto the banner or were lost into the prose.
     numberedSections(),
+    // Lay the contents pages out as their entries, not headings and quotes.
+    contentsEntries(),
+    // A heading the contents does not name (a map label, an org-chart box) is minor.
+    unlistedHeadingsMinor(),
+    // Unnumbered mixed-case subheads ("The Drumbeat Begins") over their paragraph.
+    shortSubheads(),
     // Strip the InDesign slug (and recover the page number from it) before
     // the running-furniture test looks at the page edges.
     productionSlug(),
-    runningFurniture(),
+    runningFurniture({ numbersTrackPages: true }),
+    pageBreakContinuations(),
   ],
 });

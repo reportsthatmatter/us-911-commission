@@ -1,4 +1,5 @@
-import { layoutPageJoins, quoteListRunOns, contentsEntries, endnotes, numberedSections, pageBreakContinuations, pipeline, runningFurniture, shortSubheads, unlistedHeadingsMinor, type SplitPage } from "@rtm/ingest";
+import { readCommissionHtml } from "./commission-html.ts";
+import { cleanEdition, layoutPageJoins, quoteListRunOns, contentsEntries, endnotes, numberedSections, pageBreakContinuations, pipeline, runningFurniture, shortSubheads, unlistedHeadingsMinor, type SplitPage } from "@rtm/ingest";
 
 /**
  * Every page of this PDF opens with an Adobe InDesign output slug the
@@ -64,6 +65,38 @@ export default pipeline({
     },
   ],
   passes: [
+    // The text and structure come from the Commission's own HTML edition
+    // (reference/raw/, mirrored from the UNT CyberCemetery copy of
+    // 9-11commission.gov; see commission-html.ts for what its markup means).
+    // The PDF is still read by every pass below, as the shadow ingest: its
+    // page markers say which page carries which printed number, each block is
+    // stamped with the page its first word aligns to, and every stretch where
+    // the HTML and the PDF disagree is listed in fidelity.md
+    // (reportsthatmatter-ivg.1).
+    cleanEdition({
+      dir: import.meta.dirname,
+      encoding: "latin1",
+      files: [
+    { path: "reference/raw/911Report_FM.htm", sha256: "b4b67bf8b449ea190b052aa9ee381428c9f51aa7c29b397a231656dcc5571c1c" },
+    { path: "reference/raw/911Report_Pref.htm", sha256: "f8d70cb3c8b4af4d53370b59296e23931deb7b1d2ae9cf537f979385252056b6" },
+    { path: "reference/raw/911Report_Ch1.htm", sha256: "3865478ba5df15474406f6d15b398fc4357c4047abdc604fbe92e101e1cae00b" },
+    { path: "reference/raw/911Report_Ch2.htm", sha256: "203889e99e824b6496733b41d1cc77e2bc44ab158bea973c49a843077a8fb66e" },
+    { path: "reference/raw/911Report_Ch3.htm", sha256: "dd6b245dcb5633e76bc10de1f083c0fba0b6c5d34c318c62c6ae44fa568a293b" },
+    { path: "reference/raw/911Report_Ch4.htm", sha256: "fa28f395b6656279b14d25b43203ddf019c3eb17f7e1771095b86fa29e7004bb" },
+    { path: "reference/raw/911Report_Ch5.htm", sha256: "347221b72e728ce32df9a97d12492abe68f42eb149f9fc9a7356cae05cf8b48e" },
+    { path: "reference/raw/911Report_Ch6.htm", sha256: "b9662dc0b2726f67074e3a0b626f88eac3c89418b1050efcf64f5fb395b49ac2" },
+    { path: "reference/raw/911Report_Ch7.htm", sha256: "0fce676924cce42609aae6ce3b136240ed58c8fbf0a6dc1b85d25189e20ceb90" },
+    { path: "reference/raw/911Report_Ch8.htm", sha256: "ad87b106a26cb1e07cb9aeaa86d6001023c1d6219e385713798e27c43b40f3c2" },
+    { path: "reference/raw/911Report_Ch9.htm", sha256: "64b6d2529e464611f79e07d8eeae1edb94fa833c6d4b61353f74d5d6b9d6861e" },
+    { path: "reference/raw/911Report_Ch10.htm", sha256: "9cd31dd1baacf2d719b466be7ef5e3acb8eef1067245eadaefea957ba8c4802d" },
+    { path: "reference/raw/911Report_Ch11.htm", sha256: "0e4a709258e584c26ab6d256766c647ac4d990d8f130f3497aed30797df4dcd1" },
+    { path: "reference/raw/911Report_Ch12.htm", sha256: "397157cd31ac22ca781e9f944e95224cbb800b3da7c5a040862329f2332a4651" },
+    { path: "reference/raw/911Report_Ch13.htm", sha256: "6c16e75d97a9de2230e62b4668cd005446caf59d66285fdfbd6dffc1c18dff41" },
+    { path: "reference/raw/911Report_App.htm", sha256: "1392fa59b29292ec066171f79688b4f0547eff8a3183b7a270bbb4975683e05f" },
+    { path: "reference/raw/911Report_Notes.htm", sha256: "336523b57cdb8e1481dc800a87a31c5fcb517928047f9e078a49459825aa7f32" },
+      ],
+      read: readCommissionHtml,
+    }),
     // A paragraph run over a page break that opens on a capital, a digit or a
     // quotation mark (or follows a full stop on a justified page) joins when the
     // layout says it runs on: no first-line indent, same face (reportsthatmatter-38s.10).

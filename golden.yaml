@@ -8,8 +8,6 @@ pages:
     printed: 15
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [H, K]
-    xfail: reportsthatmatter-699.2
-    xfail_only: [blocks]
     blocks:
       - paragraph: {start: "FAA Air Traffic Control Centers", end: "FAA Air Traffic Control Centers"}
       - paragraph: {start: "Reporting structure, Northeast Air Defense Sector", end: "Graphics courtesy of ESRI"}
@@ -79,7 +77,5 @@ pages:
     printed: 429
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [tables, J]
-    xfail: reportsthatmatter-17v
-    xfail_only: [separate]
     headings: ["APPENDIX A COMMON ABBREVIATIONS"]
     separate: ["CAP combat air patrol", "CAPPS Computer Assisted Passenger Prescreening System", "CENTCOM Central Command", "NMCC National Military Command Center"]

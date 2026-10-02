@@ -4,4 +4,14 @@
 # A correction describes the text; a pass describes how to read the source.
 # Every correction must match exactly once, or the build fails naming its id.
 version: 1
-corrections: []
+corrections:
+  # The drop cap ruined the first line's text layer: "Tue sday, Se ptembe r 11,
+  # 20 01". The bare "20" was then read as a footnote marker, took chapter 1's
+  # note 20, and (under the old count-based pairing) shifted every later [^20]
+  # onto the previous chapter's note (reportsthatmatter-apk).
+  - id: c-0001
+    where: { volume: 1, printed: 1 }
+    find: "Tue sday, Se ptembe r 11, 20 01,"
+    replace: "Tuesday, September 11, 2001,"
+    reason: drop-cap OCR garble; checked against the scan (chapter 1, printed p.1)
+    added: 2026-10-02

@@ -1,14 +1,13 @@
 # Paragraph-id aliases for the move to the hybrid source (reportsthatmatter-ivg.1): old id -> new id.
 # Old ids are the PDF build's (@rtm/ingest v0.18.1, the full.md this branch replaces); each maps to the
 # paragraph of the new text that contains the old paragraph's opening words (first 12, 8, 6 or 4 words,
-# found once), or its middle words where the old opening was garbled. Data for reportsthatmatter-q8c
+# found once), or its middle words where the old opening was garbled (site: scripts/aliases.ts). Data for reportsthatmatter-q8c
 # (serving ?p=<old> as a redirect); nothing reads this file yet. Regenerate against what is live when
 # the alias redirects ship. Ids with no containing paragraph (text now in a table, the staff list read
 # in a different order, garbled furniture) are listed under `unmatched`.
 aliases:
   1-ctc-did-not-analyze: ctc-did-not-analyze-how
   1-reporting-suggests-bin-ladin: 1-reporting---suggests-bin
-  1999-2004-thomas-pickard-acting: law-enforcement-intelligence
   2-ctc-did-not-develop: ctc-did-not-analyze-how
   2000-when-en-route-united: mohamed-atta-known-have-been
   3-ctc-did-not-propose: ctc-did-not-analyze-how
@@ -156,7 +155,6 @@ aliases:
   new-jersey-police-department-bernard: emergency-response
   new-york-new-jersey-joseph: emergency-response
   newark-following-day: mohamed-atta-known-have-been
-  north-american-aerospace-defense-command-2: 9-11-plot-national-crisis
   north-tower-jet-fuel-fireball: civilians-fire-safety-personnel-911
   operational-management-earlier-report-we: earlier-report-we-detailed-various
   period-after-august-1998-embassy: much-public-commentary-turned-immediately
@@ -179,7 +177,6 @@ aliases:
   saudi-nationals-who-left-united: third-we-believe-fbi-conducted
   security-administration-aviation-security-9: borders-transportation-managing-risk
   security-council-appropriate-balance-among: national-intelligence-director-would-submit
-  security-council-president: each-case-involved-agency-would
   security-federal-aviation-administration-claudio: borders-transportation-managing-risk
   security-liberty-russell-senate-office: security-liberty
   security-united-airlines-andrew-p: borders-transportation-managing-risk
@@ -226,6 +223,7 @@ unmatched:
   - 1997-2001-donald-kerrick-deputy
   - 1997-2001-william-j-clinton
   - 1997-2002-newt-gingrich-speaker
+  - 1999-2004-thomas-pickard-acting
   - 2000-2001-stephen-hadley-deputy
   - 2000-2004-william-milam-u
   - 7-59-takeoff-8-14
@@ -302,6 +300,7 @@ unmatched:
   - new-york-city
   - new-york-city-2
   - norad-north-american-aerospace-defense
+  - north-american-aerospace-defense-command-2
   - north-tower-wtc-8-53
   - nro-cbp-tsa-nat-l
   - nsa-east-eurasia-all-source-analysis
@@ -328,6 +327,7 @@ unmatched:
   - san-diego-abdul-rasul-sayyaf
   - saud-al-rashid-saudi-candidate
   - secretary-defense
+  - security-council-president
   - security-officer-professional-staff-member
   - senior-counsel-team-leader-professional
   - senior-counsel-team-leader-professional-2

@@ -959,7 +959,7 @@ At the White House, the video teleconference was conducted from the Situation Ro
 
 Garvey, Belger, and other senior officials from FAA headquarters participated in this video teleconference at various times.We do not know who from Defense participated, but we know that in the first hour none of the personnel involved in managing the crisis did.And none of the information conveyed in the White House video teleconference, at least in the first hour, was being passed to the NMCC.As one witness recalled,"[It] was almost like there were parallel decisionmaking processes going on; one was a voice conference orchestrated by the NMCC . . . and then there was the [White House video teleconference]. . . . [I]n my mind they were competing venues for command and control and decisionmaking."[^190]
 
-At 10:03, the conference received reports of more missing aircraft,"2 possibly 3 aloft," and learned of a combat air patrol over Washington.There was discussion of the need for rules of engagement. Clarke reported that they were asking the President for authority to shoot down aircraft. Confirmation of that authority came at 10:25, but the commands were already being conveyed in more direct contacts with the Pentagon.[^191]
+At 10:03, the conference received reports of more missing aircraft,"[^2] possibly 3 aloft," and learned of a combat air patrol over Washington.There was discussion of the need for rules of engagement. Clarke reported that they were asking the President for authority to shoot down aircraft. Confirmation of that authority came at 10:25, but the commands were already being conveyed in more direct contacts with the Pentagon.[^191]
 
 %%page 37%%
 
@@ -2439,7 +2439,7 @@ After meeting with Bin Ladin, KSM says he journeyed onward to India, Indonesia, 
 
 After settling his family in Karachi, KSM tried to join the mujahid leader Ibn al Khattab in Chechnya. Unable to travel through Azerbaijan, KSM returned to Karachi and then to Afghanistan to renew contacts with Bin Ladin and his colleagues.Though KSM may not have been a member of al Qaeda at this time, he admits traveling frequently between Pakistan and Afghanistan in 1997 and the first half of 1998, visiting Bin Ladin and cultivating relationships with his lieutenants, Atef and Sayf al Adl, by assisting them with computer and media projects.[^15]
 
-According to KSM, the 1998 bombings of the U.S. embassies in Nairobi and Dar es Salaam marked a watershed in the evolution of the 9/11 plot. KSM claims these bombings convinced him that Bin Ladin was truly committed to attacking the United States. He continued to make himself useful, collecting news articles and helping other al Qaeda members with their outdated computer equipment. Bin Ladin, apparently at Atef 's urging, finally decided to give KSM the green light for the 9/11 operation sometime in late 1998 or early 1999.16
+According to KSM, the 1998 bombings of the U.S. embassies in Nairobi and Dar es Salaam marked a watershed in the evolution of the 9/11 plot. KSM claims these bombings convinced him that Bin Ladin was truly committed to attacking the United States. He continued to make himself useful, collecting news articles and helping other al Qaeda members with their outdated computer equipment. Bin Ladin, apparently at Atef 's urging, finally decided to give KSM the green light for the 9/11 operation sometime in late 1998 or early 1999.[^16]
 
 %%page 150%%
 
@@ -2638,7 +2638,7 @@ In addition to Atta, Binalshibh, Shehhi, and Jarrah, the group included other ex
 
 • Mounir el Motassadeq, another Moroccan, came to Germany in 1993,
 
-> moving to Hamburg two years later to study electrical engineering at the Technical University.A witness has recalled Motassadeq saying that he would kill his entire family if his religious beliefs demanded it. One of Motassadeq's roommates recalls him referring to Hitler as a "good man" and organizing film sessions that included speeches by Bin Ladin. Motassadeq would help conceal the Hamburg group's trip to Afghanistan in late 1999.85
+> moving to Hamburg two years later to study electrical engineering at the Technical University.A witness has recalled Motassadeq saying that he would kill his entire family if his religious beliefs demanded it. One of Motassadeq's roommates recalls him referring to Hitler as a "good man" and organizing film sessions that included speeches by Bin Ladin. Motassadeq would help conceal the Hamburg group's trip to Afghanistan in late 1999.[^85]
 
 • Abdelghani Mzoudi, also a Moroccan, arrived in Germany in the
 
@@ -2779,7 +2779,7 @@ In late 1998, Hijazi and Abu Hoshar had settled on a plan.They would first attac
 
 In early 1999, Hijazi and Abu Hoshar contacted Khalil Deek, an American citizen and an associate of Abu Zubaydah who lived in Peshawar, Pakistan, and who, with Afghanistan-based extremists, had created an electronic version of a terrorist manual, the Encyclopedia of Jihad.They obtained a CD-ROM of this encyclopedia from Deek.[^8] In June, with help from Deek,Abu Hoshar arranged with Abu Zubaydah for Hijazi and three others to go to Afghanistan for added training in handling explosives. In late November 1999, Hijazi reportedly swore before Abu Zubaydah the bayat to Bin Ladin, committing himself to do anything Bin Ladin ordered. He then departed for Jordan and was at a waypoint in Syria when Abu Zubaydah sent Abu Hoshar the message that prompted Jordanian authorities to roll up the whole cell.[^9]
 
-After the arrests of Abu Hoshar and 15 others, the Jordanians tracked Deek to Peshawar, persuaded Pakistan to extradite him, and added him to their catch. Searches in Amman found the rented house and, among other things,[^71] drums of acids, several forged Saudi passports, detonators, and Deek's Encyclopedia. Six of the accomplices were sentenced to death. In custody, Hijazi's younger brother said that the group's motto had been "The season is coming, and bodies will pile up in sacks."10
+After the arrests of Abu Hoshar and 15 others, the Jordanians tracked Deek to Peshawar, persuaded Pakistan to extradite him, and added him to their catch. Searches in Amman found the rented house and, among other things,[^71] drums of acids, several forged Saudi passports, detonators, and Deek's Encyclopedia. Six of the accomplices were sentenced to death. In custody, Hijazi's younger brother said that the group's motto had been "The season is coming, and bodies will pile up in sacks."[^10]
 
 %%page 176%%
 
@@ -2833,7 +2833,7 @@ Late in the afternoon of December 14, Ressam arrived in Port Angeles. He waited 
 
 %%page 179%%
 
-Inspectors examining Ressam's rental car found the explosives concealed in the spare tire well, but at first they assumed the white powder and viscous liq- uid were drug-related—until an inspector pried apart and identified one of the four timing devices concealed within black boxes. Ressam was placed under arrest. Investigators guessed his target was in Seattle.They did not learn about the Los Angeles airport planning until they reexamined evidence seized in Montreal in 2000; they obtained further details when Ressam began cooperating in May 2001.28
+Inspectors examining Ressam's rental car found the explosives concealed in the spare tire well, but at first they assumed the white powder and viscous liq- uid were drug-related—until an inspector pried apart and identified one of the four timing devices concealed within black boxes. Ressam was placed under arrest. Investigators guessed his target was in Seattle.They did not learn about the Los Angeles airport planning until they reexamined evidence seized in Montreal in 2000; they obtained further details when Ressam began cooperating in May 2001.[^28]
 
 #### Emergency Cooperation
 
@@ -3209,7 +3209,7 @@ Tenet emphasized the ambitious plans for covert action that the CIA had develope
 
 The CIA official, "Richard," told us that Rice "got it." He said she agreed with his conclusions about what needed to be done, although he complained to us that the policy process did not follow through quickly enough.[^198] Clarke and Black were asked to develop a range of options for attacking Bin Ladin's organization, from the least to most ambitious.[^199]
 
-Rice and Hadley asked Clarke and his staff to draw up the new presidential directive. On June 7, Hadley circulated the first draft, describing it as "an admittedly ambitious" program for confronting al Qaeda.[^200] The draft NSPD's goal was to "eliminate the al Qida network of terrorist groups as a threat to the United States and to friendly governments." It called for a multiyear effort involving diplomacy, covert action, economic measures, law enforcement, public diplomacy, and if necessary military efforts. The State Department was to work with other governments to end all al Qaeda sanctuaries, and also to work with the Treasury Department to disrupt terrorist financing.The CIA was to develop an expanded covert action program including significant additional funding and aid to anti-Taliban groups.The draft also tasked OMB with ensuring that sufficient funds to support this program were found in U.S. budgets from fiscal years 2002 to 2006.201
+Rice and Hadley asked Clarke and his staff to draw up the new presidential directive. On June 7, Hadley circulated the first draft, describing it as "an admittedly ambitious" program for confronting al Qaeda.[^200] The draft NSPD's goal was to "eliminate the al Qida network of terrorist groups as a threat to the United States and to friendly governments." It called for a multiyear effort involving diplomacy, covert action, economic measures, law enforcement, public diplomacy, and if necessary military efforts. The State Department was to work with other governments to end all al Qaeda sanctuaries, and also to work with the Treasury Department to disrupt terrorist financing.The CIA was to develop an expanded covert action program including significant additional funding and aid to anti-Taliban groups.The draft also tasked OMB with ensuring that sufficient funds to support this program were found in U.S. budgets from fiscal years 2002 to 2006.[^201]
 
 %%page 205%%
 
@@ -3609,7 +3609,7 @@ Recruitment and Selection for 9/11 Twelve of the 13 muscle hijackers (excluding 
 
 Saudi authorities interviewed the relatives of these men and have briefed us on what they found.The muscle hijackers came from a variety of educational and societal backgrounds. All were between 20 and 28 years old; most were unemployed with no more than a high school education and were unmarried.[^85]
 
-Four of them—Ahmed al Ghamdi, Saeed al Ghamdi, Hamza al Ghamdi, and Ahmad al Haznawi—came from a cluster of three towns in the al Bahah region, an isolated and underdeveloped area of Saudi Arabia, and shared the same tribal affiliation. None had a university degree.Their travel patterns and information from family members suggest that the four may have been in contact with each other as early as the fall of 1999.86
+Four of them—Ahmed al Ghamdi, Saeed al Ghamdi, Hamza al Ghamdi, and Ahmad al Haznawi—came from a cluster of three towns in the al Bahah region, an isolated and underdeveloped area of Saudi Arabia, and shared the same tribal affiliation. None had a university degree.Their travel patterns and information from family members suggest that the four may have been in contact with each other as early as the fall of 1999.[^86]
 
 %%page 232%%
 
@@ -4182,7 +4182,7 @@ Let's hope the National Security Law Unit will stand behind their decisions then
 
 It is now clear that everyone involved was confused about the rules governing the sharing and use of information gathered in intelligence channels. Because Mihdhar was being sought for his possible connection to or knowledge of the Cole bombing, he could be investigated or tracked under the existing Cole criminal case. No new criminal case was needed for the criminal agent to begin searching for Mihdhar. And as NSA had approved the passage of its information to the criminal agent, he could have conducted a search using all available information. As a result of this confusion, the criminal agents who were knowledgeable about al Qaeda and experienced with criminal investigative techniques, including finding suspects and possible criminal charges, were thus excluded from the search.[^83]
 
-The search was assigned to one FBI agent, and it was his very first counterterrorism lead. Because the lead was "routine," he was given 30 days to open an intelligence case and make some unspecified efforts to locate Mihdhar. He started the process a few days later. He checked local New York databases for criminal record and driver's license information and checked the hotel listed on Mihdhar's U.S. entry form. Finally, on September 11, the agent sent a lead to Los Angeles, because Mihdhar had initially arrived in Los Angeles in January 2000.84
+The search was assigned to one FBI agent, and it was his very first counterterrorism lead. Because the lead was "routine," he was given 30 days to open an intelligence case and make some unspecified efforts to locate Mihdhar. He started the process a few days later. He checked local New York databases for criminal record and driver's license information and checked the hotel listed on Mihdhar's U.S. entry form. Finally, on September 11, the agent sent a lead to Los Angeles, because Mihdhar had initially arrived in Los Angeles in January 2000.[^84]
 
 %%page 272%%
 

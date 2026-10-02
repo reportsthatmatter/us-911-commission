@@ -1,4 +1,4 @@
-import { contentsEntries, endnotes, numberedSections, pageBreakContinuations, pipeline, runningFurniture, shortSubheads, unlistedHeadingsMinor, type SplitPage } from "@rtm/ingest";
+import { quoteListRunOns, contentsEntries, endnotes, numberedSections, pageBreakContinuations, pipeline, runningFurniture, shortSubheads, unlistedHeadingsMinor, type SplitPage } from "@rtm/ingest";
 
 /**
  * Every page of this PDF opens with an Adobe InDesign output slug the
@@ -64,6 +64,8 @@ export default pipeline({
     },
   ],
   passes: [
+    // A quotation running over a page arrives as two (reportsthatmatter-38s.9).
+    quoteListRunOns(),
     // Every note is an endnote, numbered afresh per chapter in the Notes at
     // the back; no page carries a footnote block. Read as page-foot notes,
     // the notes pages' chapter heads ("11 Foresight—and Hindsight") became

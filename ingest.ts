@@ -1,4 +1,4 @@
-import { quoteListRunOns, contentsEntries, endnotes, numberedSections, pageBreakContinuations, pipeline, runningFurniture, shortSubheads, unlistedHeadingsMinor, type SplitPage } from "@rtm/ingest";
+import { layoutPageJoins, quoteListRunOns, contentsEntries, endnotes, numberedSections, pageBreakContinuations, pipeline, runningFurniture, shortSubheads, unlistedHeadingsMinor, type SplitPage } from "@rtm/ingest";
 
 /**
  * Every page of this PDF opens with an Adobe InDesign output slug the
@@ -64,6 +64,10 @@ export default pipeline({
     },
   ],
   passes: [
+    // A paragraph run over a page break that opens on a capital, a digit or a
+    // quotation mark (or follows a full stop on a justified page) joins when the
+    // layout says it runs on: no first-line indent, same face (reportsthatmatter-38s.10).
+    layoutPageJoins(),
     // A quotation running over a page arrives as two (reportsthatmatter-38s.9).
     quoteListRunOns(),
     // Every note is an endnote, numbered afresh per chapter in the Notes at

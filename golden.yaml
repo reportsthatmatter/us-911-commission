@@ -1,0 +1,85 @@
+# Golden pages: ground truth for this report, read off the PDF page image and checked by `pnpm ingest verify`.
+# Format and rules: @rtm/ingest src/golden.ts and the site's docs/quality-harness.md ("Golden pages").
+# A page marked xfail is a known pipeline defect: it stays red here, verify stays green, and the bead says why.
+# Notes are endnotes in an appendix: a body page defines none and references markers only, usually flush against the word ("flight.114").
+pages:
+  # A figure page: two maps. Only the captions are text; the map labels (BOSTON, CLEVELAND, NEADS...) must not become headings or quotations.
+  - pdf: 32
+    printed: 15
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [H, K]
+    xfail: reportsthatmatter-699.2
+    xfail_only: [blocks]
+    blocks:
+      - paragraph: {start: "FAA Air Traffic Control Centers", end: "FAA Air Traffic Control Centers"}
+      - paragraph: {start: "Reporting structure, Northeast Air Defense Sector", end: "Graphics courtesy of ESRI"}
+    footnotes: []
+    markers: []
+  # A bold run-in subhead ("Military Notification and Response.") fused into its paragraph, a quoted call, and a count read as a marker (153 miles).
+  - pdf: 37
+    printed: 20
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [I, G, F, D]
+    xfail: reportsthatmatter-17v, reportsthatmatter-htt
+    xfail_only: [blocks, markers, must_read]
+    blocks:
+      - paragraph: {start: "In the succeeding minutes, controllers were attempting", end: "of the southbound flight.", notes: [114]}
+      - heading: "Military Notification and Response."
+      - paragraph: {start: "Boston Center did not follow the protocol", end: "had been hijacked:", notes: [115]}
+      - quote: {start: "FAA: Hi. Boston Center TMU", end: "not an exercise, not a test.", notes: [116]}
+      - paragraph: {start: "NEADS ordered to battle stations the two F-15 alert aircraft", end: "The air defense of America began with this call.", notes: [117]}
+      - paragraph: {start: "At NEADS, the report of the hijacking was relayed immediately", end: "then called NORAD headquarters to report.", notes: [118]}
+      - paragraph: {start: "F-15 fighters were scrambled at 8:46", end: "a plane had hit the World Trade Center.", notes: [119]}
+      - paragraph: {start: "Radar data show the Otis fighters were airborne at 8:53", end: "stayed in this holding pattern.", notes: [120]}
+    footnotes: []
+    markers: [114, 115, 116, 117, 118, 119, 120]
+    must_read: ["Falmouth, Massachusetts, 153 miles away from New York City"]
+  # A transcript of a radio exchange, one speaker turn per line, and a bold subhead on its own line.
+  - pdf: 48
+    printed: 31
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [ordinary, D, F]
+    blocks:
+      - paragraph: {start: "At the same time, the NEADS mission crew commander", end: "aircraft over the nation’s capital.", notes: [172]}
+      - paragraph: {start: "The news of a reported bomb on board United 93", end: "NEADS called Washington Center to report:"}
+      - paragraph: {start: "NEADS: I also want to give you a heads-up, Washington.", end: "heads-up, Washington."}
+      - paragraph: {start: "FAA (DC): Go ahead.", end: "Go ahead."}
+      - paragraph: {start: "NEADS: United nine three, have you got information on that yet?", end: "on that yet?"}
+      - paragraph: {start: "FAA: Yeah, he’s down.", end: "he’s down."}
+      - paragraph: {start: "NEADS: He’s down?", end: "He’s down?"}
+      - paragraph: {start: "FAA: Yes.", end: "Yes."}
+      - paragraph: {start: "NEADS: When did he land?", end: "have got confirmation—"}
+      - paragraph: {start: "FAA: He did not land.", end: "did not land."}
+      - paragraph: {start: "NEADS: Oh, he’s down? Down?", end: "Down?"}
+      - paragraph: {start: "FAA: Yes. Somewhere up northeast of Camp David.", end: "northeast of Camp David."}
+      - paragraph: {start: "NEADS: Northeast of Camp David.", end: "of Camp David."}
+      - paragraph: {start: "FAA: That’s the last report.", end: "know exactly where.", notes: [173]}
+      - paragraph: {start: "The time of notification of the crash of United 93 was 10:15.", end: "learned it was hijacked.", notes: [174]}
+      - heading: "Clarifying the Record"
+      - paragraph: {start: "The defense of U.S. airspace on 9/11 was not conducted", end: "no advance notice on the fourth."}
+      - paragraph: {start: "We do not believe that the true picture of that morning", end: "executing that unprecedented order flawlessly."}
+    footnotes: []
+    markers: [172, 173, 174]
+  # Chapter opener: chapter number and title, a section heading, four paragraphs; two flush markers ("Bin Ladin.1").
+  - pdf: 271
+    printed: 254
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [I, F]
+    blocks:
+      - heading: "“THE SYSTEM WAS BLINKING RED”"
+      - heading: "8.1 The Summer of Threat"
+      - paragraph: {start: "As 2001 began, counterterrorism officials were receiving", end: "including at home."}
+      - paragraph: {start: "To understand how the escalation in threat reporting", end: "general warning."}
+      - paragraph: {start: "Because the amount of reporting is so voluminous", end: "handful of high-level officials.", notes: [1, 2]}
+      - paragraph: {start: "The Senior Executive Intelligence Brief (SEIB)", continues: true}
+    footnotes: []
+    markers: [1, 2]
+  # A two-column list of abbreviations (appendix): every entry is its own row, not one paragraph.
+  - pdf: 446
+    printed: 429
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [tables, J]
+    xfail: reportsthatmatter-17v
+    xfail_only: [separate]
+    headings: ["APPENDIX A COMMON ABBREVIATIONS"]
+    separate: ["CAP combat air patrol", "CAPPS Computer Assisted Passenger Prescreening System", "CENTCOM Central Command", "NMCC National Military Command Center"]

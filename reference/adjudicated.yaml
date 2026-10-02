@@ -1,0 +1,192 @@
+report: us-911-commission
+adjudicated: 2026-10-02
+by: Claude (Sonnet 5.5), reading the PDF
+method: "20 page breaks drawn at random (seeded) from the page breaks the reference covers, plus 10 where our text and the reference disagreed. For each, pdftotext -layout of the two pages (body lines, notes, running head), answering: does a new block (paragraph, bullet, quotation, heading) start between the two printed body lines shown, or does the block run on. prev and next are the dataset's lines; when the new page's first body line is not the one shown, the verdict covers the stretch between."
+breaks:
+  - page: 52
+    prev: "the role of national leadership in the events that morning."
+    next: "1.3 NATIONAL CRISIS MANAGEMENT"
+    verdict: split
+    stratum: random
+    image: false
+    note: "heading 1.3"
+  - page: 60
+    prev: "Vice President has cleared. Vice President has cleared us to"
+    next: "intercept traffic and shoot them down if they do not respond"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 61
+    prev: "rticipated in the White House video teleconference. He moved"
+    next: "to the NMCC shortly before 10:30, in order to join Vice Chai"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 68
+    prev: "wers to embrace martyrdom since “the walls of oppression and"
+    next: "humiliation cannot be demolished except in a rain of bullets"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 72
+    prev: "snake.”18"
+    next: "Finally, Bin Ladin had another advantage: a substantial, wor"
+    verdict: split
+    stratum: random
+    image: false
+    note: "the new page's first line is indented: a new paragraph"
+  - page: 82
+    prev: "of power, to aid his reassertion of control over camps near"
+    next: "Khowst, out of an apparent hope that he would now expand the"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 84
+    prev: "and training recruits, he also provided support to and bene-"
+    next: "fited from the broad infrastructure of such facilities in Af"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 99
+    prev: "BI expanded the number of JTTFs throughout the 1990s, and by"
+    next: "9/11 there were 34.While useful, the JTTFs had limitations.T"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 114
+    prev: "ist of new procedures that would become customary for forces"
+    next: "deployed abroad.They involved a number of defensive measures"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 129
+    prev: "houses that belonged to Bin Ladin’s wives and the one where"
+    next: "Bin Ladin himself was most likely to sleep.Working with the"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 136
+    prev: "ton administration had to reevaluate the threat posed by Bin"
+    next: "Ladin.Was this just a new and especially venomous version of"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 162
+    prev: "Ladin, but no option was rated as having more than a 15 per-"
+    next: "AL QAEDA AIMS AT THE"
+    verdict: split
+    stratum: random
+    image: false
+    note: "chapter opening"
+  - page: 179
+    prev: "urg, together with a young student from the United Arab Emi-"
+    next: "Marwan al Shehhi"
+    verdict: split
+    stratum: random
+    image: false
+    note: "bold run-in heading"
+  - page: 208
+    prev: "helped in Yemen until he was arrested in a case of mistaken"
+    next: "identity and freed with Bin Ladin’s help, as we also mention"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 236
+    prev: "dual had notified him that Hazmi and Mihdhar would be arriv-"
+    next: "ing in Los Angeles with plans to carry out an attack. Abdull"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 263
+    prev: "sonal materials from the hijackers,including copies of their"
+    next: "passports, which Binalshibh in turn would pass along to KSM,"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 277
+    prev: "ncing.To give a sense of his anxiety at the time, one senior"
+    next: "official in the Counterterrorist Center told us that he and"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 304
+    prev: "tandard operating procedures for high-rise fires—that civil-"
+    next: "ians should stay low, remain where they are, and wait for em"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 319
+    prev: "ipherable. In the opinion of one of the members of the Field"
+    next: "Comm group, tactical 1 simply was not designed to handle the"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 331
+    prev: "ted Airlines Flight 93 crash site, Shanksville, Pennsylvania"
+    next: "sons in integrating multiagency response efforts are apparen"
+    verdict: unjudgeable
+    stratum: disagreement
+    image: false
+    note: "a photo caption sits between the halves of the paragraph: no single answer"
+  - page: 350
+    prev: "posal, saying it had been a turning point in his thinking.47"
+    next: "General Shelton briefed the principals on the preliminary pl"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 368
+    prev: "e United States tried to solve the al Qaeda problem with the"
+    next: "same government institutions and capabilities it had used in"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 371
+    prev: "Khalid al Mihdhar."
+    next: "When the travelers left Kuala Lumpur for Bangkok, local offi"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 393
+    prev: "of women, and the place of non-Muslim minorities.The United"
+    next: "States can promote moderation, but cannot ensure its ascenda"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 397
+    prev: "n treatment of prisoners of war to captured terrorists.Those"
+    next: "Conventions establish a minimum set of standards for prisone"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 428
+    prev: "nted by the attorney general in consultation with the DCI.10"
+    next: "Combining Joint Work with Stronger Management"
+    verdict: split
+    stratum: random
+    image: false
+    note: "heading"
+  - page: 432
+    prev: "onal Intelligence Director should rely on the relevant joint"
+    next: "mission center to oversee these details, helping to coordina"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 436
+    prev: "he community, and a secretary of homeland security who helps"
+    next: "extend the system to public agencies and relevant private-se"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 440
+    prev: "tary or covert operations; and pending decisions on the pos-"
+    next: "sible use of force. Such a document could provide both notic"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 444
+    prev: "ews designed to identify whether each field office is appro-"
+    next: "• The FBI should report regularly to Congress in detail on t"
+    verdict: split
+    stratum: random
+    image: false
+    note: "a new bullet opens the page"

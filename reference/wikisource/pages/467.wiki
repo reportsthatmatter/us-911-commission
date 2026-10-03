@@ -1,0 +1,9 @@
+<noinclude><pagequality level="3" user="SciWhiz12" /></noinclude>{{c|{{x-larger|NOTES}}}}
+
+
+{{sc|For simplicity}}, we have adopted the following citation conventions in 
+these endnotes.
+
+Dozens of government agencies and other entities provided the Commission with more than 2.5 million pages of documents and other materials, including more than 1,000 hours of audiotapes. In general, we cite documents and other materials by providing the agency or entity of origin, the type of document (e.g., memo, email, report, or record), the author and recipient, the title (in quotes) or a description of the subject, and the date. We use the following abbreviations for the agencies and entities that produced the bulk of these documents: AAL—American Airlines; CIA—Central Intelligence Agency; DCI—Director of Central Intelligence; DHS—Department of Homeland Security; DOD—Department of Defense; DOJ—Department of Justice; DOS—Department of State; DOT—Department of Transportation; EPA—Environmental Protection Agency; FAA—Federal Aviation Administration; FBI—Federal Bureau of Investigation; FDNY—Fire Department of New York; GAO—General Accounting Office; INS—Immigration and Naturalization Service; NEADS—Northeast Air Defense Sector; NSA—National Security Agency; NSC—National Security Council; NTSB—National Transportation Safety Board; NYPD—New York Police Department; OEM—Office of Emergency Management, City of New York; PANYNJ or Port Author ity—Port Authority of New York and New Jersey; PAPD—Port Authority Police Department; SEC—Securities and Exchange Commission; Treasury—Department of Treasury; TSA—Transportation Security Administration; UAL—United Air Lines; USSS—United States Secret Service.
+
+Interviews, meetings, briefings, and site visits conducted by Commissioners or by members of the Commission staff are cited, for example, as “George Tenet interview (Jan. 22, 2004).” Testimony by witnesses at one of the Com-<noinclude>{{right|449}}</noinclude>

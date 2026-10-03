@@ -1,0 +1,28 @@
+<noinclude><pagequality level="3" user="SciWhiz12" />{{rvh|30|“WE HAVE SOME PLANES”|THE 9/11 COMMISSION REPORT}}</noinclude>aircraft. Then the Command Center informed headquarters that controllers had lost track of United 93 over the Pittsburgh area. Within seconds, the Command Center received a visual report from another aircraft, and informed headquarters that the aircraft was 20 miles northwest of Johnstown. United 93 was spotted by another aircraft, and, at 10:01, the Command Center advised FAA headquarters that one of the aircraft had seen United 93 “waving his wings.” The aircraft had witnessed the hijackers’ efforts to defeat the passengers’ counterattack.{{9-11|1|167}}
+
+United 93 crashed in Pennsylvania at 10:03:11, 125 miles from Washington, D.C. The precise crash time has been the subject of some dispute. The 10:03:11 impact time is supported by previous National Transportation Safety Board analysis and by evidence from the Commission staff’s analysis of radar, the flight data recorder, the cockpit voice recorder, infrared satellite data, and air traffic control transmissions.{{9-11|1|168}}
+
+Five minutes later, the Command Center forwarded this update to headquarters: 
+
+{{blockquote|
+'''Command Center:''' O.K. Uh, there is now on that United 93. 
+
+'''FAA Headquarters:''' Yes. 
+
+'''Command Center:''' There is a report of black smoke in the last position I gave you, fifteen miles south of Johnstown. 
+
+'''FAA Headquarters:''' From the airplane or from the ground? 
+
+'''Command Center:''' Uh, they’re speculating it’s from the aircraft. 
+
+'''FAA Headquarters:''' Okay. 
+
+'''Command Center:''' Uh, who, it hit the ground.That’s what they’re speculating, that’s speculation only.{{9-11|1|169}}
+}}
+
+The aircraft that spotted the “black smoke” was the same unarmed Air National Guard cargo plane that had seen American 77 crash into the Pentagon 27 minutes earlier. It had resumed its flight to Minnesota and saw the smoke from the crash of United 93, less than two minutes after the plane went down. At 10:17, the Command Center advised headquarters of its conclusion that United 93 had indeed crashed.{{9-11|1|170}}
+
+Despite the discussions about military assistance, no one from FAA headquarters requested military assistance regarding United 93. Nor did any manager at FAA headquarters pass any of the information it had about United 93 to the military.
+
+'''Military Notification and Response.''' NEADS first received a call about United 93 from the military liaison at Cleveland Center at 10:07. Unaware that the aircraft had already crashed, Cleveland passed to NEADS the aircraft’s last known latitude and longitude. NEADS was never able to locate United 93 on radar because it was already in the ground.{{9-11|1|171}}
+{{nop}}<noinclude></noinclude>

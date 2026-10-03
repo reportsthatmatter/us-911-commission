@@ -1,0 +1,45 @@
+<noinclude><pagequality level="3" user="SciWhiz12" />{{rvh|462|NOTES TO CHAPTER 1}}
+{{smaller block/s}}</noinclude>ment of Natural Resources). But the seismic data on which they based this estimate are far too weak in signal-to-noise ratio and far too speculative in terms of signal source to be used as a means of contradicting the impact time established by the very accurate combination of FDR, CVR, ATC, radar, and impact site data sets. These data sets constrain United 93’s impact time to within 1 second, are airplane- and crash-site specific, and are based on time codes automatically recorded in the ATC audiotapes for the FAA centers and correlated with each data set in a process internationally accepted within the aviation accident investigation community. Further more, one of the study’s principal authors now concedes that “seismic data is not definitive for the impact of UA 93.” Email from Won-Young Kim to the Commission, “Re: UA Flight 93,” July 7, 2004; see also Won-Young Kim, “Seismic Observations for UA Flight 93 Crash near Shanksville, Pennsylvania during September 11, 2001,” July 5, 2004.
+
+{{note|169|169.|bold=no|italics=no}}FAA memo, “Full Transcription; Air Traffic Control System Command Center, National Traffic Management Officer, East Position; September 11, 2001,” Oct. 21 ,2003, p. 31.
+
+{{note|170|170.|bold=no|italics=no}}For 10:17 discussion, see ibid., p. 34. For communication regarding “black smoke,” see FAA memo, “Full Transcript; Aircraft Accident; N591UA (UAL93) Somerset, PA; September 11, 2001,” May 10, 2002, pp. 16–18 (Cleveland Center, Imperial Radar position). This report from the C-130H was recorded on ATC audio about 1 minute and 37 seconds after the impact time of United 93 as established by NTSB and Commission analysis of FDR, CVR, radar, and impact data sets—more than a minute before the earliest impact time originally posited by the authors of the seismic data report. 
+
+{{note|171|171.|bold=no|italics=no}}NEADS audio file, Identification Technician, channel 5, 10:07. 
+
+{{note|172|172.|bold=no|italics=no}}NEADS audio file, Mission Crew Commander, channel 2, 10:10. 
+
+{{note|173|173.|bold=no|italics=no}}NEADS audio file, Identification Technician, channel 4, 10:14. 
+
+{{note|174|174.|bold=no|italics=no}}DOD record, NEADS MCC/T Log Book, Sept. 11, 2001. 
+
+{{note|175|175.|bold=no|italics=no}}William Scott testimony, May 23, 2003. 
+
+{{note|176|176.|bold=no|italics=no}}Larry Arnold testimony, May 23, 2003. 
+
+{{note|177|177.|bold=no|italics=no}}See DOD record, NEADS MCC/T Log Book, Sept. 11, 2001. The entry in this NEADS log records the tail number not of American 77 but of American 11: “American Airlines #N334AA hijacked.” See also DOD record, Surveillance Log Book, Sept. 11, 2001. 
+
+{{note|178|178.|bold=no|italics=no}}William Scott testimony, May 23, 2003; DOD briefing materials, “Noble Eagle; 9-11 Timeline,” undated. 
+
+{{note|179|179.|bold=no|italics=no}}For lack of knowledge about the hijacking, see, e.g., White House transcript, Card interview with Ron Fournier of the Associated Press, Aug. 7, 2002. For information on the hijacking within the FAA, see the discussion of American 11 in section 1.2.
+
+{{note|180|180.|bold=no|italics=no}}See White House record, Situation Room Log, Sept. 11, 2001; White House record, Presidential Emergency Operations Center (PEOC) Watch Log, Sept. 11, 2001; DOD record, Senior Operations Officer log, Sept. 11, 2001. 
+
+{{note|181|181.|bold=no|italics=no}}Jane Garvey interview (Jun. 30, 2004); Monte Belger interview (Apr. 20, 2004). 
+
+{{note|182|182.|bold=no|italics=no}}For notifications, see DOD record, Assistant Deputy Director Operations Passdown Log, Sept. 11, 2001. For the call to the FAA, see DOD record, Senior Operations Officer log, Sept. 11 , 2001 (“9:00 NMCC called FAA, briefed of explosion at WTC possibly from aircraft crash. Also, hijacking of American Flight 11 from Boston to LA, now enroute to Kennedy”). For the scrambling of jets not being discussed, see Ryan Gonsalves interview (May 14, 2004). 
+
+{{note|183|183.|bold=no|italics=no}}Secret Service records show the motorcade arriving between 8:50 and 8:55. USSS record, shift log, Sept. 11, 2001 (8:55); USSS record, Command Post Protectee Log, Sept. 11, 2001 (8:50). For Andrew Card’s recollection, see Andrew Card meeting (Mar. 31, 2004). For the President’s reaction, see Andrew Card meeting (Mar. 31, 2004); White House transcript, President Bush interview with Bob Schieffer of CBS News, Apr. 17, 2002.
+
+{{note|184|184.|bold=no|italics=no}}White House transcript, Rice interview with Evan Thomas of Newsweek, Nov. 1, 2001, p. 2; see also White House record, President’s Daily Diary, Sept. 11, 2001. 
+
+{{note|185|185.|bold=no|italics=no}}White House transcript, Vice President Cheney interview with Newsweek, Nov. 19, 2001, p. 1. 
+
+{{note|186|186.|bold=no|italics=no}}For Rice’s meeting, see White House transcript, Rice interview with Bob Woodward of the Washington Post, Oct. 24, 2001, pp. 360–361. For White House staff monitoring the news, see, e.g., White House transcript, Rice interview with Evan Thomas, Nov. 11, 2001, p. 388.
+
+{{note|187|187.|bold=no|italics=no}}On White House staff reaction, see White House transcript, Rice interview with Bob Woodward, Oct. 24, 2001, p. 361; Andrew Card meeting (Mar. 31, 2004). On security enhancements, see USSS memo, interview with Carl Truscott, Oct. 1, 2001, p. 1. On security measures being precautionary, see Carl Truscott interview (Apr. 15, 2004). 
+
+{{note|188|188.|bold=no|italics=no}}For the time of the teleconference, see FAA record, Chronology ADA-30, Sept. 11, 2001. For recollections of the NMCC officer, see Charles Chambers interview (Apr. 23, 2004). For recollections of the FAA manager, see Michael Weikert interview (May 7, 2004). For Belger’s reaction, see Monte Belger testimony, June 17, 2004.
+
+{{note|189|189.|bold=no|italics=no}}For the times of the video teleconference, see White House record, Situation Room Communications Log, Sept. 11, 2001 (9:25 start); CIA notes, Cofer Black timeline, Sept. 11, 2001 (CIA representatives joining at 9:40); FAA record, Chronology ADA-30, Sept. 11, 2001 (FAA representatives joining at 9:40).
+{{nop}}<noinclude>{{smaller block/e}}</noinclude>

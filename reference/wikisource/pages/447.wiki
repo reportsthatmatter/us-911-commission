@@ -1,0 +1,65 @@
+<noinclude><pagequality level="3" user="SciWhiz12" /></noinclude>{{c|{{x-larger|APPENDIX A}}
+
+{{x-larger|COMMON ABBREVIATIONS}}}}
+
+{|
+|-
+| {{ts|w30}} | CAP || combat air patrol 
+|-
+| CAPPS || Computer Assisted Passenger Prescreening System 
+|-
+| CENTCOM || Central Command 
+|-
+| CIA || Central Intelligence Agency 
+|-
+| CONR || Continental U.S. NORAD Region 
+|-
+| CSG || Counterterrorism Security Group 
+|-
+| CTC || Counterterror ist Center 
+|-
+| DIA || Defense Intelligence Agency 
+|-
+| DCI || Director of Central Intelligence 
+|-
+| ESU || Emergency Service Unit (NYPD) 
+|-
+| FAA || Federal Aviation Administration 
+|-
+| FBI || Federal Bureau of Investigation 
+|-
+| FDNY || Fire Department of New York 
+|-
+| FFTC || Florida Flight Training Center 
+|-
+| FISA || Foreign Intelligence Surveillance Act 
+|-
+| FISC || Foreign Intelligence Surveillance Court 
+|-
+| INS || Immigration and Naturalization Service 
+|-
+| ISID || Inter-Services Intelligence Directorate (Pakistan) 
+|-
+| JCS || Joint Chiefs of Staff 
+|-
+| JI || Jemaah Islamiah 
+|-
+| JTTF || Joint Terrorism Task Force 
+|-
+| KSM || Khalid Sheikh Mohammed 
+|-
+| Legat || legal attaché 
+|-
+| MAK || Mektab al Khidmat 
+|-
+| MON || memorandum of notification 
+|-
+| NEADS || Northeast Air Defense Sector 
+|-
+| NCTC || National Counterterrorism Center 
+|-
+| NGO || nongovernmental organization 
+|-
+| NMCC || National Military Command Center<noinclude>{{nopt}}
+|}
+{{right|429}}</noinclude>

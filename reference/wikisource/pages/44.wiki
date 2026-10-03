@@ -1,0 +1,42 @@
+<noinclude><pagequality level="3" user="SciWhiz12" />{{rvh|26|“WE HAVE SOME PLANES”|THE 9/11 COMMISSION REPORT}}</noinclude>tify and follow the suspicious aircraft. The C-130H pilot spotted it, identified it as a Boeing 757, attempted to follow its path, and at 9:38, seconds after impact, reported to the control tower: “looks like that aircraft crashed into the Pentagon sir.”{{9-11|1|147}}
+
+'''Military Notification and Response.''' NORAD heard nothing about the search for American 77. Instead, the NEADS air defenders heard renewed reports about a plane that no longer existed: American 11. 
+
+At 9:21, NEADS received a report from the FAA: 
+
+{{blockquote|
+'''FAA:''' Military, Boston Center. I just had a report that American 11 is still in the air, and it’s on its way towards—heading towards Washington.
+
+'''NEADS:''' Okay. American 11 is still in the air? 
+
+'''FAA:''' Yes.
+
+'''NEADS:''' On its way towards Washington? 
+
+'''FAA:''' That was another—it was evidently another aircraft that hit the tower. That’s the latest report we have. 
+
+'''NEADS:''' Okay. 
+
+'''FAA:''' I’m going to try to confirm an ID for you, but I would assume he’s somewhere over, uh, either New Jersey or somewhere further south. 
+
+'''NEADS:''' Okay. So American 11 isn’t the hijack at all then, right? 
+
+'''FAA:''' No, he is a hijack. 
+
+'''NEADS:''' He—American 11 is a hijack? 
+
+'''FAA:''' Yes. 
+
+'''NEADS:''' And he’s heading into Washington? 
+
+'''FAA:''' Yes. This could be a third aircraft.{{9-11|1|148}}
+}}
+
+The mention of a “third aircraft” was not a reference to American 77. There was confusion at that moment in the FAA. Two planes had struck the World Trade Center, and Boston Center had heard from FAA headquarters in Washington that American 11 was still airborne. We have been unable to identify the 
+source of this mistaken FAA information. 
+
+The NEADS technician who took this call from the FAA immediately passed the word to the mission crew commander, who reported to the NEADS battle commander: 
+
+{{blockquote|
+'''Mission Crew Commander, NEADS:''' Okay, uh, American Airlines is still airborne. Eleven, the first guy, he’s heading towards Washington. Okay? I think we need to scramble Langley right now. And I’m gonna take the fighters from Otis, try to chase this guy down if I can find him.{{9-11|1|149}}
+}}<noinclude></noinclude>

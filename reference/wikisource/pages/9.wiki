@@ -1,0 +1,32 @@
+<noinclude><pagequality level="4" user="KINGDM76" /></noinclude>{{c|{{x-larger|LIST OF ILLUSTRATIONS AND TABLES}}}}
+
+{|
+|-
+| {{ts|vtp|w20}} | p. 15 || FAA Air Traffic Control Centers
+|-
+| {{ts|vtp}} | p. 15 || Reporting structure, Northeast Air Defense Sector 
+|-
+| {{ts|vtp}} | p. 32–33 || Flight paths and timelines 
+|-
+| {{ts|vtp}} | p. 49 || Usama Bin Ladin 
+|-
+| {{ts|vtp}} | p. 64 || Map of Afghanistan 
+|-
+| {{ts|vtp}} | p. 148 || Khalid Sheikh Mohammed 
+|-
+| {{ts|vtp}} | p. 238–239 || The 9/11 hijackers 
+|-
+| {{ts|vtp}} | p. 279 || The World Trade Center Complex as of 9/11 
+|-
+| {{ts|vtp}} | p. 284 || The World Trade Center radio repeater system 
+|-
+| {{ts|vtp}} | p. 288 || The World Trade Center North Tower stairwell with deviations 
+|-
+| {{ts|vtp}} | p. 312 || The Twin Towers following the impact of American Airlines Flight 11 and United Airlines Flight 175 
+|-
+| {{ts|vtp}} | p. 313 || The Pentagon after being struck by American Airlines Flight 77 
+|-
+| {{ts|vtp}} | p. 313 || American Airlines Flight 93 crash site, Shanksville, Pennsylvania 
+|-
+| {{ts|vtp}} | p. 413 || Unity of effort in managing intelligence 
+|}<noinclude>{{right|ix}}</noinclude>

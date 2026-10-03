@@ -1,0 +1,27 @@
+<noinclude><pagequality level="3" user="SciWhiz12" />{{rvh|21|“WE HAVE SOME PLANES”|THE 9/11 COMMISSION REPORT}}</noinclude>In summary, NEADS received notice of the hijacking nine minutes before it struck the North Tower. That nine minutes’ notice before impact was the most the military would receive of any of the four hijackings.{{9-11|1|121}}
+
+{{ph/l|level=3|United Airlines Flight 175}}
+
+'''FAA Awareness.''' One of the last transmissions from United Airlines Flight 175 is, in retrospect, chilling. By 8:40, controllers at the FAA’s New York Center were seeking information on American 11. At approximately 8:42, shortly after entering New York Center’s airspace, the pilot of United 175 broke in with the following transmission:
+
+{{blockquote|
+'''UAL 175:''' New York UAL 175 heavy.
+
+'''FAA:''' UAL 175 go ahead. 
+
+'''UAL 175:''' Yeah. We figured we’d wait to go to your center. Ah, we heard a suspicious transmission on our departure out of Boston, ah, with someone, ah, it sounded like someone keyed the mikes and said ah everyone ah stay in your seats. 
+
+'''FAA:''' Oh, okay. I’ll pass that along over here.{{9-11|1|122}}
+}}
+
+Minutes later, United 175 turned southwest without clearance from air traffic control. At 8:47, seconds after the impact of American 11, United 175’s transponder code changed, and then changed again. These changes were not noticed for several minutes, however, because the same New York Center controller was assigned to both American 11 and United 175. The controller knew American 11 was hijacked; he was focused on searching for it after the aircraft disappeared at 8:46.{{9-11|1|123}}
+
+At 8:48, while the controller was still trying to locate American 11, a New York Center manager provided the following report on a Command Center teleconference about American 11:
+
+{{blockquote|
+'''Manager, New York Center:''' Okay. This is New York Center. We’re watching the airplane. I also had conversation with Amer ican Airlines, and they’ve told us that they believe that one of their stewardesses was stabbed and that there are people in the cockpit that have control of the aircraft, and that’s all the information they have right now.{{9-11|1|124}}
+}}
+
+The New York Center controller and manager were unaware that American 11 had already crashed. 
+
+At 8:51, the controller noticed the transponder change from United 175 and tried to contact the aircraft. There was no response. Beginning at 8:52, the controller made repeated attempts to reach the crew of United 175. Still no response. The controller checked his radio equipment and contacted another<noinclude></noinclude>

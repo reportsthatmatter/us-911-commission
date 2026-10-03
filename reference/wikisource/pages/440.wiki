@@ -1,0 +1,17 @@
+<noinclude><pagequality level="4" user="ToxicPea" />{{rvh|422|THE 9/11 COMMISSION REPORT|THE 9/11 COMMISSION REPORT}}</noinclude>'''Improve the Transitions between Administrations'''
+
+In chapter 6, we described the transition of 2000–2001. Beyond the policy
+issues we described, the new administration did not have its deputy cabinet officers in place until the spring of 2001, and the critical subcabinet officials were not confirmed until the summer—if then. In other words, the new administration—like others before it—did not have its team on the job until at least six months after it took office.
+
+'''Recommendation: Since a catastrophic attack could occur with little or no notice, we should minimize as much as possible the disruption of national security policymaking during the change of administrations by accelerating the process for national security appointments. We think the process could be improved significantly so transitions can work more effectively and allow new officials to assume their new responsibilities as quickly as possible.'''
+
+{{*/s}} Before the election, candidates should submit the names of selected members of their prospective transition teams to the FBI so that, if necessary, those team members can obtain security clearances immediately after the election is over.
+
+{{*/i}} A president-elect should submit lists of possible candidates for national security positions to begin obtaining security clearances immediately after the election, so that their background investigations can be complete before January 20.
+
+{{*/i}} A single federal agency should be responsible for providing and maintaining security clearances, ensuring uniform standards–including uniform security questionnaires and financial report requirements, and maintaining a single database. This agency can also be responsible for administering polygraph tests on behalf of organizations that require
+them.
+
+{{*/i}} A president-elect should submit the nominations of the entire new national security team, through the level of under secretary of cabinet departments, not later than January 20. The Senate, in return, should adopt special rules requiring hearings and votes to confirm or reject national security nominees within 30 days of their submission. The Senate should not require confirmation of such executive appointees below Executive Level 3.
+
+{{*/i}} The outgoing administration should provide the president-elect, as soon as possible after election day, with a classified, compartmented list that catalogues specific, operational threats to national security; major military or covert operations; and pending decisions on the {{hws|pos|possible}}<noinclude>{{*/e}}</noinclude>

@@ -1,0 +1,35 @@
+<noinclude><pagequality level="4" user="KINGDM76" /></noinclude>{{c|{{larger|CONTENTS}}}}
+
+{{italic block|
+List of Illustrations and Tables{{gap}}{{spl2|9|ix}}
+
+Member List{{gap}}{{spl2|11|xi}}
+
+Staff List{{gap}}{{spl2|13|xiii}}–{{spl2|14|xiv}}
+
+Preface{{gap}}{{spl2|15|xv}}
+}}
+
+{{inline-block|1.|2em}}“WE HAVE SOME PLANES”{{gap}}{{spl|1|18}}
+{{left margin|2em|{{fine block|
+{{inline-block|1.1|3em}}Inside the Four Flights{{gap}}{{spl|1|18}}{{br}}
+{{inline-block|1.2|3em}}Improvising a Homeland Defense{{gap}}{{spl|14|18}}{{br}}
+{{inline-block|1.3|3em}}National Crisis Management{{gap}}{{spl|35|18}}{{br}}
+}}}}
+
+{{inline-block|2.|2em}}THE FOUNDATION OF THE NEW TERRORISM{{gap}}{{spl|47|18}} 
+{{left margin|2em|{{fine block|
+{{inline-block|2.1|3em}}A Declaration of War{{gap}}{{spl|47|18}}{{br}}
+{{inline-block|2.2|3em}}Bin Ladin’s Appeal in the Islamic World{{gap}}{{spl|48|18}}{{br}}
+{{inline-block|2.3|3em}}The Rise of Bin Ladin and al Qaeda (1988–1992){{gap}}{{spl|55|18}}{{br}}
+{{inline-block|2.4|3em}}Building an Organization, Declaring War on the United States (1992–1996){{gap}}{{spl|59|18}}{{br}}
+{{inline-block|2.5|3em}}Al Qaeda’s Renewal in Afghanistan (1996–1998){{gap}}{{spl|63|18}} 
+}}}}
+
+{{inline-block|3.|2em}}COUNTERTERRORISM EVOLVES{{gap}}{{spl|71|18}}
+{{left margin/s|2em}}{{fine block/s}}
+{{inline-block|3.1|3em}}From the Old Terrorism to the New: The First World Trade Center Bombing{{gap}}{{spl|71|18}}{{br}}
+{{inline-block|3.2|3em}}Adaptation—and Nonadaptation—in the Law Enforcement Community{{gap}}{{spl|73|18}}{{br}}
+{{inline-block|3.3|3em}}{{. . .}} and in the Federal Aviation Administration{{gap}}{{spl|82|18}}{{br}}
+{{inline-block|3.4|3em}}{{. . .}} and in the Intelligence Community{{gap}}{{spl|86|18}}{{br}}<noinclude>{{fine block/e}}{{left margin/e}}
+{{rvh|v}}</noinclude>

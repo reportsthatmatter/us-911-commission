@@ -1,0 +1,65 @@
+<noinclude><pagequality level="3" user="SciWhiz12" />{{rvh|33|“WE HAVE SOME PLANES”|THE 9/11 COMMISSION REPORT}}</noinclude>{{Multicol}}
+{{larger block|
+'''American Airlines Flight 77 (AA 77)'''
+
+'''''Washington, D.C., to Los Angeles'''''
+}}
+
+[[File:911 commission AA77 path.png|300px]]
+
+{| {{ts|fs090}}
+| {{ts|vtp|w15}} | 8:20 || Takeoff
+|-
+| {{ts|vtp}} | 8:51 || Last routine radio communication 
+|-
+| {{ts|vtp}} | 8:51-8:54 || Likely takeover
+|-
+| {{ts|vtp}} | 8:54 || Flight 77 makes unauthorized turn to south 
+|-
+| {{ts|vtp}} | 8:56 || Transponder is turned off 
+|-
+| {{ts|vtp}} | 9:05 || AA headquarters aware that Flight 77 is hijacked 
+|-
+| {{ts|vtp}} | 9:25 || Herndon Command Center orders nationwide ground stop 
+|-
+| {{ts|vtp}} | 9:32 || Dulles tower observes radar of fast-moving aircraft (later identified as AA 77) 
+|-
+| {{ts|vtp}} | 9:34 || FAA advises NEADS that AA 77 is missing 
+|-
+| {{ts|vtp}} | 9:37:46 || AA 77 crashes into the Pentagon 
+|-
+| {{ts|vtp}} | 10:30 || AA headquarters confirms Flight 77 crash into Pentagon 
+|}
+{{Multicol-break}}
+{{larger block|
+'''United Airlines Flight 93 (UA 93)'''
+
+'''''Newark to San Francisco'''''
+}}
+
+[[File:911 commission UA93 path.png|300px]]
+
+{| {{ts|fs090}}
+| {{ts|vtp|w15}} | 8:42 || Takeoff 
+|-
+| {{ts|vtp}} | 9:24 || Flight 93 receives warning from UA about possible cockpit intrusion 
+|-
+| {{ts|vtp}} | 9:27 || Last routine radio communication 
+|-
+| {{ts|vtp}} | 9:28 || Likely takeover 
+|-
+| {{ts|vtp}} | 9:34 || Herndon Command Center advises FAA headquarters that UA 93 is hijacked 
+|-
+| {{ts|vtp}} | 9:36 || Flight attendant notifies UA of hijacking; UA attempts to contact the cockpit 
+|-
+| {{ts|vtp}} | 9:41 || Transponder is turned off 
+|-
+| {{ts|vtp}} | 9:57 || Passenger revolt begins 
+|-
+| {{ts|vtp}} | 10:03:11 || Flight 93 crashes in field in Shanksville, PA 
+|-
+| {{ts|vtp}} | 10:07 || Cleveland Center advises NEADS of UA 93 hijacking 
+|-
+| {{ts|vtp}} | 10:15 || UA headquarters aware that Flight 93 has crashed in PA; Washington Center advises NEADS that Flight 93 has crashed in PA 
+|}
+{{Multicol-end}}<noinclude></noinclude>

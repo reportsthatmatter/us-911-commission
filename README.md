@@ -23,3 +23,7 @@ read in full by every pass as the shadow ingest (`cleanEdition` in
 account; `fidelity.md` lists every stretch where the HTML and the PDF
 disagree; `aliases.yaml` maps the paragraph ids of the PDF build to the
 paragraphs that now hold their text.
+
+## Reference texts
+
+`reference/wikisource/` mirrors the volunteer-proofread Wikisource transcription of the 9/11 Commission Report (Official Government Edition), one file per printed page (350 of its pages are proofread or validated (310 proofread, 40 validated; 7 blank, 5 problematic)), as served by the MediaWiki API: `pages/<n>.wiki` (the wikitext), `manifest.json` (page and revision ids, proofread levels, SHA-256 of every file, proofreaders credited, licence) and `pagemap.json` (each page's PDF page, measured against the PDF's text). The underlying text is public; Wikisource's transcription and formatting are CC BY-SA 4.0, so this is a measurement reference for `pnpm score` in the site repo (word error rate and footnote-marker accuracy per page, see docs/scoring.md there), not served text. Rebuild with `scripts/wikisource/fetch.mjs` and `map.mjs` in the site repo.

@@ -1,0 +1,52 @@
+<noinclude><pagequality level="4" user="KINGDM76" />{{left margin/s|2em}}{{fine block/s}}</noinclude>{{inline-block|3.5|3em}}{{. . .}} and in the State Department and the Defense Department{{gap}}{{spl|93|18}}{{br}}
+{{inline-block|3.6|3em}}{{. . .}} and in the White House{{gap}}{{spl|98|18}}{{br}}
+{{inline-block|3.7|3em}}{{. . .}} and in the Congress{{gap}}{{spl|102|18}}{{br}}
+{{fine block/e}}{{left margin/e}}
+
+{{inline-block|4.|2em}}RESPONSES TO AL QAEDA’S INITIAL ASSAULTS{{gap}}{{spl|108|18}}
+{{left margin|2em|{{fine block|
+{{inline-block|4.1|3em}}Before the Bombings in Kenya and Tanzania{{gap}}{{spl|108|18}}{{br}}
+{{inline-block|4.2|3em}}Crisis: August 1998{{gap}}{{spl|115|18}}{{br}}
+{{inline-block|4.3|3em}}Diplomacy{{gap}}{{spl|121|18}}{{br}}
+{{inline-block|4.4|3em}}Covert Action{{gap}}{{spl|126|18}}{{br}}
+{{inline-block|4.5|3em}}Searching for Fresh Options{{gap}}{{spl|134|18}}{{br}}
+}}}}
+
+{{inline-block|5.|2em}}AL QAEDA AIMS AT THE AMERICAN HOMELAND{{gap}}{{spl|145|18}}
+{{left margin|2em|{{fine block|
+{{inline-block|5.1|3em}}Terrorist Entrepreneurs{{gap}}{{spl|145|18}}{{br}}
+{{inline-block|5.2|3em}}The “Planes Operation”{{gap}}{{spl|153|18}}{{br}}
+{{inline-block|5.3|3em}}The Hamburg Contingent{{gap}}{{spl|160|18}}{{br}}
+{{inline-block|5.4|3em}}A Money Trail?{{gap}}{{spl|169|18}}{{br}}
+}}}}
+
+{{inline-block|6.|2em}}FROM THREAT TO THREAT{{gap}}{{spl|174|18}}
+{{left margin|2em|{{fine block|
+{{inline-block|6.1|3em}}The Millennium Crisis{{gap}}{{spl|174|18}}{{br}}
+{{inline-block|6.2|3em}}Post-Crisis Reflection: Agenda for 2000{{gap}}{{spl|182|18}}{{br}}
+{{inline-block|6.3|3em}}The Attack on the USS Cole{{gap}}{{spl|190|18}}{{br}}
+{{inline-block|6.4|3em}}Change and Continuity{{gap}}{{spl|198|18}}{{br}}
+{{inline-block|6.5|3em}}The New Administration’s Approach{{gap}}{{spl|203|18}}{{br}}
+}}}}
+
+{{inline-block|7.|2em}}THE ATTACK LOOMS{{gap}}{{spl|215|18}}
+{{left margin|2em|{{fine block|
+{{inline-block|7.1|3em}}First Arrivals in California{{gap}}{{spl|215|18}}{{br}}
+{{inline-block|7.2|3em}}The 9/11 Pilots in the United States{{gap}}{{spl|223|18}}{{br}}
+{{inline-block|7.3|3em}}Assembling the Teams{{gap}}{{spl|231|18}}{{br}}
+{{inline-block|7.4|3em}}Final Strategies and Tactics{{gap}}{{spl|241|18}}{{br}}
+}}}}
+
+{{inline-block|8.|2em}}“THE SYSTEM WAS BLINKING RED”{{gap}}{{spl|254|18}}
+{{left margin|2em|{{fine block|
+{{inline-block|8.1|3em}}The Summer of Threat{{gap}}{{spl|254|18}}{{br}}
+{{inline-block|8.2|3em}}Late Leads—Mihdhar, Moussaoui, and KSM{{gap}}{{spl|266|18}}{{br}}
+}}}}
+
+{{inline-block|9.|2em}}HEROISM AND HORROR{{gap}}{{spl|278|18}} 
+{{left margin|2em|{{fine block|
+{{inline-block|9.1|3em}}Preparedness as of September 11{{gap}}{{spl|278|18}}{{br}}
+{{inline-block|9.2|3em}}September 11, 2001{{gap}}{{spl|285|18}}{{br}}
+{{inline-block|9.3|3em}}Emergency Response at the Pentagon{{gap}}{{spl|311|18}}{{br}}
+{{inline-block|9.4|3em}}Analysis{{gap}}{{spl|315|18}}{{br}}
+}}}}<noinclude>{{rvh|vi}}</noinclude>

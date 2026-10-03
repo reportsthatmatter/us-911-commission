@@ -1,0 +1,31 @@
+<noinclude><pagequality level="3" user="SciWhiz12" />{{rvh|43|“WE HAVE SOME PLANES”|THE 9/11 COMMISSION REPORT}}
+{{blockquote/s}}</noinclude>intercept traffic and shoot them down if they do not respond per [General Arnold].{{9-11|1|230}}
+{{blockquote/e}}
+
+In interviews with us, NEADS personnel expressed considerable confusion over the nature and effect of the order. 
+
+The NEADS commander told us he did not pass along the order because he was unaware of its ramifications. Both the mission commander and the senior weapons director indicated they did not pass the order to the fighters circling Washington and New York because they were unsure how the pilots would, or should, proceed with this guidance. In short, while leaders in Washington believed that the fighters above them had been instructed to “take out” hostile aircraft, the only orders actually conveyed to the pilots were to “ID type and tail.”{{9-11|1|231}} 
+
+In most cases, the chain of command authorizing the use of force runs from the president to the secretary of defense and from the secretary to the combatant commander. The President apparently spoke to Secretary Rumsfeld for the first time that morning shortly after 10:00. No one can recall the content of this conversation, but it was a brief call in which the subject of shootdown authority was not discussed.{{9-11|1|232}}
+
+At 10:39, the Vice President updated the Secretary on the air threat conference: 
+
+{{blockquote|
+'''Vice President:''' There’s been at least three instances here where we’ve had reports of aircraft approaching Washington—a couple were confirmed hijack. And, pursuant to the President’s instructions I gave authorization for them to be taken out. Hello? 
+
+'''SecDef:''' Yes, I understand. Who did you give that direction to? 
+
+'''Vice President:''' It was passed from here through the [operations] center at the White House, from the [shelter]. 
+
+'''SecDef:''' OK, let me ask the question here. Has that directive been transmitted to the aircraft? 
+
+'''Vice President:''' Yes, it has. 
+
+'''SecDef:''' So we’ve got a couple of aircraft up there that have those instructions at this present time? 
+
+'''Vice President:''' That is correct. And it’s my understanding they’ve already taken a couple of aircraft out. 
+
+'''SecDef:''' We can’t confirm that. We’re told that one aircraft is down but we do not have a pilot report that did it.{{9-11|1|233}}
+}}
+
+As this exchange shows, Secretary Rumsfeld was not in the NMCC when the shootdown order was first conveyed. He went from the parking lot to his office (where he spoke to the President), then to the Executive Support Center, where he participated in the White House video teleconference. He moved<noinclude></noinclude>

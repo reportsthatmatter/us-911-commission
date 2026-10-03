@@ -1,0 +1,20 @@
+<noinclude><pagequality level="3" user="SciWhiz12" />{{rvh|20|“WE HAVE SOME PLANES”|THE 9/11 COMMISSION REPORT}}</noinclude>In the succeeding minutes, controllers were attempting to ascertain the altitude of the southbound flight.{{9-11|1|114}}
+
+'''Military Notification and Response.''' Boston Center did not follow the protocol in seeking military assistance through the prescribed chain of command. In addition to notifications within the FAA, Boston Center took the initiative, at 8:34, to contact the military through the FAA’s Cape Cod facility. The center also tried to contact a former alert site in Atlantic City, unaware it had been phased out. At 8:37:52, Boston Center reached NEADS. This was the first notification received by the military—at any level—that American 11 had been hijacked:{{9-11|1|115}}
+
+{{blockquote|
+'''FAA:''' Hi. Boston Center TMU [Traffic Management Unit], we have a problem here. We have a hijacked aircraft headed towards New York, and we need you guys to, we need someone to scramble some F-16s or something up there, help us out.
+
+'''NEADS:''' Is this real-world or exercise? 
+
+'''FAA:''' No, this is not an exercise, not a test.{{9-11|1|116}}
+}}
+
+NEADS ordered to battle stations the two F-15 alert aircraft at Otis Air Force Base in Falmouth, Massachusetts, 153 miles away from New York City. The air defense of America began with this call.{{9-11|1|117}}
+
+At NEADS, the report of the hijacking was relayed immediately to Battle Commander Colonel Robert Marr. After ordering the Otis fighters to battle stations, Colonel Marr phoned Major General Larry Arnold, commanding general of the First Air Force and NORAD’s Continental Region. Marr sought authorization to scramble the Otis fighters. General Arnold later recalled instructing Marr to “go ahead and scramble them, and we’ll get authorities later.” General Arnold then called NORAD headquarters to report.{{9-11|1|118}}
+
+F-15 fighters were scrambled at 8:46 from Otis Air Force Base. But NEADS did not know where to send the alert fighter aircraft, and the officer directing the fighters pressed for more information: “I don’t know where I’m scrambling these guys to. I need a direction, a destination.” Because the hijackers had turned off the plane’s transponder, NEADS personnel spent the next minutes searching their radar scopes for the primary radar return. American 11 struck the North Tower at 8:46. Shortly after 8:50, while NEADS personnel were still trying to locate the flight, word reached them that a plane had hit the World Trade Center.{{9-11|1|119}}
+
+Radar data show the Otis fighters were airborne at 8:53. Lacking a target, they were vectored toward military-controlled airspace off the Long Island coast. To avoid New York area air traffic and uncertain about what to do, the fighters were brought down to military airspace to “hold as needed.” From 9:09 to 9:13, the Otis fighters stayed in this holding pattern.{{9-11|1|120}}
+{{nop}}<noinclude></noinclude>

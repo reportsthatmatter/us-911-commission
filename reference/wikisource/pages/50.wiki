@@ -1,0 +1,69 @@
+<noinclude><pagequality level="3" user="SciWhiz12" />{{rvh|32|“WE HAVE SOME PLANES”|THE 9/11 COMMISSION REPORT}}</noinclude>{{Multicol}}
+{{larger block|
+'''American Airlines Flight 11 (AA 11)'''
+
+'''''Boston to Los Angeles'''''
+}}
+
+[[File:911 commission AA11 path.png|300px]]
+
+{| {{ts|fs090}}
+|-
+| {{ts|vtp|w15}} | 7:59 || Takeoff 
+|-
+| {{ts|vtp}} | 8:14 || Last routine radio communication; likely takeover 
+|-
+| {{ts|vtp}} | 8:19 || Flight attendant notifies AA of hijacking 
+|-
+| {{ts|vtp}} | 8:21 || Transponder is turned off 
+|-
+| {{ts|vtp}} | 8:23 || AA attempts to contact the cockpit 
+|-
+| {{ts|vtp}} | 8:25 || Boston Center aware of hijacking 
+|-
+| {{ts|vtp}} | 8:38 || Boston Center notifies NEADS of hijacking 
+|-
+| {{ts|vtp}} | 8:46 || NEADS scrambles Otis fighter jets in search of AA 11 
+|-
+| {{ts|vtp}} | 8:46:40 || AA 11 crashes into 1 WTC (North Tower) 
+|-
+| {{ts|vtp}} | 8:53 || Otis fighter jets airborne 
+|-
+| {{ts|vtp}} | 9:16 || AA headquarter s aware that Flight 11 has crashed into WTC 
+|-
+| {{ts|vtp}} | 9:21 || Boston Center advises NEADS that AA 11 is airborne heading for Washington 
+|-
+| {{ts|vtp}} | 9:24 || NEADS scrambles Langley fighter jets in search of AA 11
+|}
+{{Multicol-break}}
+{{larger block|
+'''United Airlines Flight 175 (UA 175)'''
+
+'''''Boston to Los Angeles'''''
+}}
+
+[[File:911 commission UA175 path.png|300px]]
+
+{| {{ts|fs090}}
+|-
+| {{ts|vtp|w15}} | 8:14 || Takeoff 
+|-
+| {{ts|vtp}} | 8:42 || Last radio communication 
+|-
+| {{ts|vtp}} | 8:42-8:46 || Likely takeover 
+|-
+| {{ts|vtp}} | 8:47 || Transponder code changes 
+|-
+| {{ts|vtp}} | 8:52 || Flight attendant notifies UA of hijacking 
+|-
+| {{ts|vtp}} | 8:54 || UA attempts to contact the cockpit 
+|-
+| {{ts|vtp}} | 8:55 || New York Center suspects hijacking 
+|-
+| {{ts|vtp}} | 9:03:11 || Flight 175 crashes into 2 WTC (South Tower) 
+|-
+| {{ts|vtp}} | 9:15 || New York Center advises NEADS that UA 175 was the second aircraft crashed into WTC 
+|-
+| {{ts|vtp}} | 9:20 || UA headquarters aware that Flight 175 had crashed into WTC 
+|}
+{{Multicol-end}}<noinclude></noinclude>

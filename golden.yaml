@@ -19,7 +19,7 @@ pages:
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [I, G, F, D]
     xfail: reportsthatmatter-17v, reportsthatmatter-htt
-    xfail_only: [blocks, markers, must_read]
+    xfail_only: [blocks]
     blocks:
       - paragraph: {start: "In the succeeding minutes, controllers were attempting", end: "of the southbound flight.", notes: [114]}
       - heading: "Military Notification and Response."
@@ -79,3 +79,19 @@ pages:
     features: [tables, J]
     headings: ["APPENDIX A COMMON ABBREVIATIONS"]
     separate: ["CAP combat air patrol", "CAPPS Computer Assisted Passenger Prescreening System", "CENTCOM Central Command", "NMCC National Military Command Center"]
+  # A bulleted list that runs over the page break: the page opens on the rest of the last item of the list before ("...the relevant joint" / "mission center to oversee these details"), inset by the item's hanging indent, then a second bullet, two bold recommendations and a list that runs on (bead 2hn).
+  - pdf: 432
+    printed: 415
+    verified_by: "Claude (Sonnet 5.5), 2026-10-03, against the page image"
+    features: [L, I, B]
+    continues_previous: true
+    opens_with: "mission center to oversee these details"
+    blocks:
+      - paragraph: {start: "Recommendation: The CIA Director should emphasize", end: "between unilateral and liaison operations."}
+      - paragraph: {start: "The CIA should retain responsibility for", end: "area of responsibility should change."}
+      - paragraph: {start: "Recommendation: Lead responsibility for directing and", end: "in the Special Operations Command."}
+      - list: {start: "Before 9/11, the CIA did not", continues: true}
+    footnotes: []
+    markers: []
+    must_contain: ["should rely on the relevant joint mission center to oversee these details"]
+    must_not_be_quote: ["mission center to oversee these details", "ties of the CIA should be a full-time effort"]

@@ -96,6 +96,11 @@ export default pipeline({
     { path: "reference/raw/911Report_Notes.htm", sha256: "336523b57cdb8e1481dc800a87a31c5fcb517928047f9e078a49459825aa7f32" },
       ],
       read: readCommissionHtml,
+      // A box that interrupts a paragraph mid-sentence is read before the
+      // rejoined paragraph when its notes number it first ("A Case Study in
+      // Terrorist Travel", notes 22-25, inside the paragraph ending on note 26;
+      // reportsthatmatter-gq4j).
+      floats: "by-notes",
     }),
     // A paragraph run over a page break that opens on a capital, a digit or a
     // quotation mark (or follows a full stop on a justified page) joins when the

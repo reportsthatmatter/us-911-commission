@@ -1,0 +1,12 @@
+<noinclude><pagequality level="4" user="ToxicPea" /></noinclude>{{c|{{xx-larger|THE 9/11<br/>
+COMMISSION<br/>
+REPORT}}
+{{dhr}}
+{{larger|Final Report of the<br/>
+National Commission on Terrorist<br/>
+Attacks Upon the United States<br/><br/>
+{{asc|Official Government Edition}}}}}}<noinclude>{{dhr|11}}
+{{rule}}
+{{c|{{smaller block|For sale by the Superintendent of Documents, U.S. Government Printing Office<br>Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area (202) 512-1800<br>Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001
+
+ISBN 0-16-072304-3}}}}</noinclude>

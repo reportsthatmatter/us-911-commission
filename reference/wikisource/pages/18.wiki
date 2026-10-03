@@ -1,0 +1,9 @@
+<noinclude><pagequality level="4" user="ToxicPea" />{{rvh|xviii|PREFACE}}</noinclude>made a limited number of them. We decided consciously to focus on recommendations we believe to be most important, whose implementation can make the greatest difference. We came into this process with strong opinions about what would work. All of us have had to pause, reflect, and sometimes change our minds as we studied these problems and considered the views of others. We hope our report will encourage our fellow citizens to study, reflect—and act. 
+
+{{block right|
+{{larger|''Thomas H. Kean''}}{{br}}
+{{asc|CHAIR}}
+
+{{larger|''Lee H. Hamilton''}}{{br}}
+{{asc|VICE CHAIR}}
+}}<noinclude></noinclude>

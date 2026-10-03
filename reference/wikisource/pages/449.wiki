@@ -1,0 +1,60 @@
+<noinclude><pagequality level="3" user="SciWhiz12" /></noinclude>{{c|{{x-larger|APPENDIX B}}
+
+{{x-larger|TABLE OF NAMES}}}}
+
+
+{{c|{{larger|U.S. OFFICIALS}}}}
+
+{| {{ts|al|w100}}
+| {{ts|w30}} | Madeleine Albright 
+| Secretary of State, 1997–2001 
+|-
+| {{ts|vtp}} | Charles Allen 
+| Assistant Director of Central Intelligence for Collection, 1998–
+|-
+| {{ts|vtp}} | Richard Armitage 
+| Deputy Secretary of State, 2001– 
+|-
+| {{ts|vtp}} | Larry Arnold 
+| Commander, First Air Force and Commander of the Continental U.S. North American Aerospace Defense Command (NORAD) Region, 1997–2002
+|-
+| {{ts|vtp}} | John Ashcroft 
+| Attorney General, 2001– 
+|-
+| {{ts|vtp}} | Monte Belger 
+| Acting Deputy Administrator, Federal Aviation Administration 1997–2002 
+|-
+| {{ts|vtp}} | Samuel “Sandy” Berger 
+| National Security Advisor, 1997–2001; Deputy National Security Advisor 1993–1997 
+|-
+| {{ts|vtp}} | J. Cofer Black 
+| Director, DCI Counterterrorist Center, 1999–2002 
+|-
+| {{ts|vtp}} | Joshua Bolten
+| White House Deputy Chief of Staff, 2001–2003 
+|-
+| {{ts|vtp}} | Robert “Bear” Bryant 
+| Deputy Director, Federal Bureau of Investigation, 1997–1999 
+|-
+| {{ts|vtp}} | George H.W. Bush 
+| 41st President of the United States, 1989–1993; Vice President, 1981–1989 
+|-
+| {{ts|vtp}} | George W. Bush 
+| 43rd President of the United States, 2001– 
+|-
+| {{ts|vtp}} | Andrew Card, Jr. 
+| White House Chief of Staff, 2001– 
+|-
+| {{ts|vtp}} | Richard B. Cheney 
+| Vice President of the United States, 2001– 
+|-
+| {{ts|vtp}} | Richard Clarke 
+| National Counterterrorism Coordinator, NSC, 1997–2001 
+|-
+| {{ts|vtp}} | William J. Clinton 
+| 42nd President of the United States, 1993–2001 
+|-
+| {{ts|vtp}} | William Cohen 
+| Secretary of Defense, 1997–2001<noinclude>{{nopt}}
+|}
+{{right|431}}</noinclude>

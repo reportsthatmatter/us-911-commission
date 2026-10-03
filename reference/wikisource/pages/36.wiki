@@ -1,0 +1,19 @@
+<noinclude><pagequality level="3" user="SciWhiz12" />{{rvh|18|“WE HAVE SOME PLANES”|THE 9/11 COMMISSION REPORT}}</noinclude>duty to contact the Pentagon’s National Military Command Center (NMCC) and to ask for a military escort aircraft to follow the flight, report anything unusual, and aid search and rescue in the event of an emergency. The NMCC would then seek approval from the Office of the Secretary of Defense to provide military assistance. If approval was given, the orders would be transmitted down NORAD’s chain of command.{{9-11|1|103}}
+
+The NMCC would keep the FAA hijack coordinator up to date and help the FAA centers coordinate directly with the military. NORAD would receive tracking information for the hijacked aircraft either from joint use radar or from the relevant FAA air traffic control facility. Every attempt would be made to have the hijacked aircraft squawk 7500 to help NORAD track it.{{9-11|1|104}}
+
+The protocols did not contemplate an intercept. They assumed the fighter escort would be discreet, “vectored to a position five miles directly behind the hijacked aircraft,” where it could perform its mission to monitor the aircraft’s flight path.{{9-11|1|105}}
+
+In sum, the protocols in place on 9/11 for the FAA and NORAD to respond to a hijacking presumed that 
+* the hijacked aircraft would be readily identifiable and would not attempt to disappear; 
+* there would be time to address the problem through the appropriate FAA and NORAD chains of command; and 
+* the hijacking would take the traditional form: that is, it would not be a suicide hijacking designed to convert the aircraft into a guided missile. 
+
+On the morning of 9/11, the existing protocol was unsuited in every respect for what was about to happen.
+
+{{ph/l|level=3|American Airlines Flight 11}}
+
+'''FAA Awareness.''' Although the Boston Center air traffic controller realized at an early stage that there was something wrong with American 11, he did not immediately interpret the plane’s failure to respond as a sign that it had been hijacked. At 8:14, when the flight failed to heed his instruction to climb to 35,000 feet, the controller repeatedly tried to raise the flight. He reached out to the pilot on the emergency frequency. Though there was no response, he kept trying to contact the aircraft.{{9-11|1|106}}
+
+At 8:21, American 11 turned off its transponder, immediately degrading the information available about the aircraft. The controller told his supervisor that he thought something was seriously wrong with the plane, although neither suspected a hijacking. The supervisor instructed the controller to follow standard procedures for handling a “no radio” aircraft.{{9-11|1|107}}
+{{nop}}<noinclude></noinclude>

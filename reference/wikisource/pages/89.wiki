@@ -1,0 +1,14 @@
+<noinclude><pagequality level="3" user="SciWhiz12" /></noinclude>{{ph/l|level=1|3{{dhr}}COUNTERTERRORISM{{br}}EVOLVES}}
+
+{{sc|In chapter 2}}, we described the growth of a new kind of terrorism, and a new terrorist organization—especially from 1988 to 1998, when Usama Bin Ladin declared war and organized the bombing of two U.S. embassies. In this chapter, we trace the parallel evolution of government efforts to counter terrorism by Islamic extremists against the United States.
+
+We mention many personalities in this report. As in any study of the U.S. government, some of the most important characters are institutions. We will introduce various agencies, and how they adapted to a new kind of terrorism.
+
+{{ph/l|level=2|3.1 FROM THE OLD TERRORISM TO THE NEW: THE FIRST WORLD TRADE CENTER BOMBING}}
+
+At 18 minutes after noon on February 26, 1993, a huge bomb went off beneath the two towers of the World Trade Center. This was not a suicide attack. The terrorists parked a truck bomb with a timing device on Level B-2 of the underground garage, then departed. The ensuing explosion opened a hole seven stories up. Six people died. More than a thousand were injured. An FBI agent at the scene described the relatively low number of fatalities as a miracle.{{9-11|3|1}}
+
+President Bill Clinton ordered his National Security Council to coordinate the response. Government agencies swung into action to find the culprits. The Counterterrorist Center located at the CIA combed its files and queried sources around the world. The National Security Agency (NSA), the huge Defense Department signals collection agency, ramped up its communications intercept network and searched its databases for clues.{{9-11|3|2}} The New York Field Office of the FBI took control of the local investigation and, in the end, set a pattern for future management of terrorist incidents.
+
+Four features of this episode have significance for the story of 9/11. 
+{{nop}}<noinclude>{{right|71}}</noinclude>

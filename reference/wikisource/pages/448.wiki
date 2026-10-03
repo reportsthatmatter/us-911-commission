@@ -1,0 +1,45 @@
+<noinclude><pagequality level="3" user="SciWhiz12" />{{rvh|430|APPENDIX}}
+{|
+|-
+| {{ts|w30}} | ||</noinclude>{{nopt}}
+|-
+| NORAD || North American Aerospace Defense Command 
+|-
+| NTSB || National Transportation Safety Board 
+|-
+| NSA || National Security Agency 
+|-
+| NSC || National Security Council 
+|-
+| NSPD || national security policy directive 
+|-
+| NYPD || New York Police Department 
+|-
+| OEM || Office of Emergency Management (New York City) 
+|-
+| OFAC || Office of Foreign Assets Control 
+|-
+| OIPR || Office of Intelligence Policy and Review 
+|-
+| OMB || Office of Management and Budget 
+|-
+| PAPD || Port Authority Police Department 
+|-
+| PDD || presidential decision directive 
+|-
+| PEOC || Presidential Emergency Operations Center 
+|-
+| SEC || Securities and Exchange Commission 
+|-
+| TSA || Transportation Security Administration 
+|-
+| TTIC || Terrorist Threat Integration Center 
+|-
+| UBL || Usama Bin Ladin 
+|-
+| WMD || weapons of mass destruction 
+|-
+| WTC || World Trade Center 
+|-
+| WTO || World Trade Organization 
+|}<noinclude></noinclude>

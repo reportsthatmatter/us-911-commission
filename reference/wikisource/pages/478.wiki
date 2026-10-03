@@ -1,0 +1,40 @@
+<noinclude><pagequality level="3" user="SciWhiz12" />{{rvh|460|NOTES TO CHAPTER 1}}
+{{smaller block/s}}</noinclude>
+{{note|129|129.|bold=no|italics=no}}FAA memo, “Full Transcript; Aircraft Accident; UAL175; New York, NY; September 11, 2001,” Jan. 17, 2002, p. 3. 
+
+{{note|130|130.|bold=no|italics=no}}“N90 [New York Terminal Radar Approach] controller stated ‘at approximately 9:00 a.m., I observed an unknown aircraft south of the Newark, New Jersey Airport, northeast bound and descending out of twelve thousand nine hundred feet in a rapid rate of descent, the radar target terminated at the World Trade Center.’” FAA report, “Summary of Air Traffic Hijack Events September 11, 2001,” Sept. 17, 2001. Former NORAD official Alan Scott testified that the time of impact of United 175 was 9:02. William Scott testimony, May 23, 2003. We have determined that the impact time was 9:03:11 based on our analysis of FAA radar data and air traffic control software logic. 
+
+{{note|131|131.|bold=no|italics=no}}FAA audio file, Herndon Command Center, New York Center position, line 5114, 9:02:34. 
+
+{{note|132|132.|bold=no|italics=no}}Ibid., 9:03; FAA audio file, Her ndon Command Center, Cleveland/Boston position, line 5115, 9:05; Michael McCormick interview (Oct. 1, 2003); David LaCates interview (Oct. 2, 2003). 
+
+{{note|133|133.|bold=no|italics=no}}FAA Audio File, Herndon Command Center, Boston Center position, line 5115, 9:05–9:07. 
+
+{{note|134|134.|bold=no|italics=no}}Joseph McCain interview (Oct. 28, 2003); Robert Marr (Jan. 23, 2004); James Fox interview (Oct. 29, 2003); Dawne Deskins interview (Oct. 30, 2003). 
+
+{{note|135|135.|bold=no|italics=no}}NEADS audio file, Mission Crew Commander position, channel 2, 9:07:32.
+
+{{note|136|136.|bold=no|italics=no}}Daniel Nash interview (Oct. 14, 2003); Timothy Duffy interview (Jan. 7, 2004). 
+
+{{note|137|137.|bold=no|italics=no}}Because the Otis fighters had expended a great deal of fuel in flying first to military airspace and then to New York, the battle commanders were concerned about refueling. As NEADS personnel looked for refueling tankers in the vicinity of New York, the mission crew commander considered scrambling the Langley fighters to New York to provide backup for the Otis fighters until the NEADS Battle Cab (the command area that overlooks the operations floor) ordered “battle stations only at Langley.” The alert fighters at Langley Air Force Base were ordered to battle stations at 9:09. Colonel Marr, the battle commander at NEADS, and General Arnold, the CONR commander, both recall that the planes were held on battle stations, as opposed to scrambling, because they might be called on to relieve the Otis fighters over New York City if a refueling tanker was not located, and also because of the general uncertainty of the situation in the sky. According to William Scott at the Commission’s May 23, 2003, hearing, “At 9:09, Langley F-16s are directed to battle stations, just based on the general situation and the breaking news, and the general developing feeling about what’s going on.” See NEADS audio file, Mission Crew Commander, channel 2, 9:08:36; Robert Marr interview (Oct. 27, 2003); Larry Arnold interview (Feb. 3, 2004). See also Colonel Marr’s statement that “[t]he plan was to protect New York City.” Filson, Air War Over America, p. 60. 
+
+{{note|138|138.|bold=no|italics=no}}Commission analysis of FAA radar data and air traffic control transmissions. 
+
+{{note|139|139.|bold=no|italics=no}}The Indianapolis Center controller advised other Indianapolis Center personnel of the developing situation. They ag reed to “sterilize” the airspace along the flight’s westerly route so the safety of other planes would not be affected. John Thomas interview (May 4, 2004). 
+
+{{note|140|140.|bold=no|italics=no}}John Thomas interview (Sept. 24, 2003). According to the FAA-produced timeline, at 9:09 Indianapolis Center “notified Great Lakes Regional Operations Center a possible aircraft accident of AMERICAN 77 due to the simultaneous loss of radio communications and radar identification.” FAA report, “Summary of Air Traffic Hijack Events September 11, 2001,” Sept. 17, 2001. 
+
+{{note|141|141.|bold=no|italics=no}}FAA audio file, Herndon Command Center, National Operations Manager position, line 4525; FAA audio file, Herndon Command Center, National Traffic Management Officer east position, line 4530; FAA memo, “Full Transcription; Air Traffic Control System Command Center, National Traffic Management Officer, East Position; September 11, 2001,” Oct. 21, 2003, p. 13. 
+
+{{note|142|142.|bold=no|italics=no}}Primary radar contact for Flight 77 was lost because the “prefer red” radar in this geographic area had no primary radar system, the “supplemental” radar had poor primary coverage, and the FAA ATC software did not allow the display of primary radar data from the “tertiary” and “quadrary” radars.
+
+{{note|143|143.|bold=no|italics=no}}David Boone interview (May 4, 2004); Charles Thomas interview (May 4, 2004); John Thomas interview (May 4, 2004); Commission analysis of FAA radar data and air traffic control software logic. 
+
+{{note|144|144.|bold=no|italics=no}}John Thomas interview (May 4, 2004); Charles Thomas interview (May 4, 2004). We have reviewed all FAA documents, transcripts, and tape recordings related to American 77 and have found no evidence that FAA headquarters issued a directive to surrounding centers to search for primary radar targets. Review of the same materials also indicates that no one within FAA located American 77 until the aircraft was identified by Dulles controllers at 9:32. For much of that time, American 77 was traveling through Washington Center’s airspace. The Washington Center’s controllers were looking for the flight, but they were not told to look for primary radar returns. 
+
+{{note|145|145.|bold=no|italics=no}}John White interview (May 7, 2004); Ellen King interview (Apr. 5, 2004); Linda Schuessler interview (Apr. 6, 2004); Benedict Sliney interview (May 21, 2004); FAA memo, “Full Transcription; Air Traffic Control System Command Center, National Traffic Management Officer, East Position; September 11, 2001,” Oct. 21, 2003, pp. 14, 27. 
+
+{{note|146|146.|bold=no|italics=no}}John Hender shot interview (Dec. 22, 2003). 
+
+{{note|147|147.|bold=no|italics=no}}FAA memo, “Partial Transcript; Aircraft Accident; AAL77; Washington, DC; September 11, 2001,” Sept. 20, 2001, p. 7. 
+{{nop}}<noinclude>{{smaller block/e}}</noinclude>

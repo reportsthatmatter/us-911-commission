@@ -1,0 +1,34 @@
+<noinclude><pagequality level="3" user="SciWhiz12" />{{rvh|23|“WE HAVE SOME PLANES”|THE 9/11 COMMISSION REPORT}}</noinclude>Meanwhile, a manager from Boston Center reported that they had deciphered what they had heard in one of the first hijacker transmissions from American 11: 
+
+{{blockquote|
+'''Boston Center:''' Hey {{. . .}} you still there? 
+
+'''New England Region:''' Yes, I am. 
+
+'''Boston Center:''' {{. . .}} as far as the tape, Bobby seemed to think the guy said that “we have planes.” Now, I don’t know if it was because it was the accent, or if there’s more than one, but I’m gonna, I’m gonna reconfirm that for you, and I’ll get back to you real quick. Okay? 
+
+'''New England Region:''' Appreciate it. 
+
+'''Unidentified Female Voice:''' They have what? 
+
+'''Boston Center:''' Planes, as in plural. 
+
+'''Boston Center:''' It sounds like, we’re talking to New York, that there’s another one aimed at the World Trade Center. 
+
+'''New England Region:''' There’s another aircraft? 
+
+'''Boston Center:''' A second one just hit the Trade Center. 
+
+'''New England Region:''' Okay. Yeah, we gotta get—we gotta alert the military real quick on this.{{9-11|1|131}}
+}}
+
+Boston Center immediately advised the New England Region that it was going to stop all departures at airports under its control. At 9:05, Boston Center confirmed for both the FAA Command Center and the New England Region that the hijackers aboard American 11 said “we have planes.” At the same time, New York Center declared “ATC zero”—meaning that aircraft were not permitted to depart from, arrive at, or travel through New York Center’s airspace until further notice.{{9-11|1|132}}
+
+Within minutes of the second impact, Boston Center instructed its controllers to inform all aircraft in its airspace of the events in New York and to advise aircraft to heighten cockpit security. Boston Center asked the Herndon Command Center to issue a similar cockpit security alert nationwide. We have found no evidence to suggest that the Command Center acted on this request or issued any type of cockpit security alert.{{9-11|1|133}}
+
+'''Military Notification and Response.''' The first indication that the NORAD air defenders had of the second hijacked aircraft, United 175, came in a phone call from New York Center to NEADS at 9:03. The notice came at about the time the plane was hitting the South Tower.{{9-11|1|134}}
+
+By 9:08, the mission crew commander at NEADS learned of the second explosion at the World Trade Center and decided against holding the fighters in military airspace away from Manhattan:
+
+{{blockquote/s}}
+'''Mission Crew Commander, NEADS:''' This is what I foresee that we probably need to do. We need to talk to FAA. We need to tell ’em if<noinclude>{{blockquote/e}}</noinclude>

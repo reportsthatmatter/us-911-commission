@@ -1,0 +1,3700 @@
+{
+ "report": "us-911-commission",
+ "pdf": "911Report.pdf",
+ "pdf_pages": 585,
+ "method": "4-word shingle overlap with pdftotext per page; match needs >= 50% of the Wikisource page's shingles and 1.5x the runner-up",
+ "offsets": {
+  "-3": 7,
+  "-1": 335
+ },
+ "our_label_offset": -17,
+ "our_label_offset_votes": {
+  "-17": 296,
+  "-18": 1,
+  "-20": 1,
+  "-29": 1,
+  "-38": 1,
+  "-40": 1
+ },
+ "our_label_note": "our %%page N%% label = PDF page + our_label_offset in the report's full.md at the time of mapping",
+ "dominant_offset": -1,
+ "matched_by_text": 342,
+ "inferred": 16,
+ "unmapped": [
+  {
+   "n": 1,
+   "method": "too-short"
+  },
+  {
+   "n": 2,
+   "method": "too-short"
+  },
+  {
+   "n": 3,
+   "method": "unmatched"
+  },
+  {
+   "n": 4,
+   "method": "too-short"
+  }
+ ],
+ "off_dominant": [
+  {
+   "n": 5,
+   "pdf": 2,
+   "overlap": 0.642
+  },
+  {
+   "n": 7,
+   "pdf": 4,
+   "overlap": 0.663
+  },
+  {
+   "n": 11,
+   "pdf": 8,
+   "overlap": 0.767
+  },
+  {
+   "n": 15,
+   "pdf": 12,
+   "overlap": 0.99
+  },
+  {
+   "n": 16,
+   "pdf": 13,
+   "overlap": 1
+  },
+  {
+   "n": 17,
+   "pdf": 14,
+   "overlap": 0.989
+  },
+  {
+   "n": 18,
+   "pdf": 15,
+   "overlap": 1
+  }
+ ],
+ "pages": [
+  {
+   "n": 1,
+   "quality": 4,
+   "printed": null,
+   "words": 5,
+   "pdf": null,
+   "overlap": null,
+   "method": "too-short",
+   "ours": null
+  },
+  {
+   "n": 2,
+   "quality": 0,
+   "printed": null,
+   "words": 0,
+   "pdf": null,
+   "overlap": null,
+   "method": "too-short",
+   "ours": null
+  },
+  {
+   "n": 3,
+   "quality": 4,
+   "printed": null,
+   "words": 21,
+   "pdf": null,
+   "overlap": null,
+   "method": "unmatched",
+   "ours": null
+  },
+  {
+   "n": 4,
+   "quality": 0,
+   "printed": null,
+   "words": 0,
+   "pdf": null,
+   "overlap": null,
+   "method": "too-short",
+   "ours": null
+  },
+  {
+   "n": 5,
+   "quality": 4,
+   "printed": null,
+   "words": 154,
+   "pdf": 2,
+   "overlap": 0.642,
+   "method": "text",
+   "ours": null
+  },
+  {
+   "n": 6,
+   "quality": 4,
+   "printed": null,
+   "words": 234,
+   "pdf": 3,
+   "overlap": null,
+   "method": "inferred (unmatched)",
+   "ours": null
+  },
+  {
+   "n": 7,
+   "quality": 4,
+   "printed": null,
+   "words": 172,
+   "pdf": 4,
+   "overlap": 0.663,
+   "method": "text",
+   "ours": null
+  },
+  {
+   "n": 8,
+   "quality": 0,
+   "printed": null,
+   "words": 0,
+   "pdf": 5,
+   "overlap": null,
+   "method": "inferred (too-short)",
+   "ours": null
+  },
+  {
+   "n": 9,
+   "quality": 4,
+   "printed": null,
+   "words": 128,
+   "pdf": 6,
+   "overlap": null,
+   "method": "inferred (unmatched)",
+   "ours": null
+  },
+  {
+   "n": 10,
+   "quality": 0,
+   "printed": null,
+   "words": 0,
+   "pdf": 7,
+   "overlap": null,
+   "method": "inferred (too-short)",
+   "ours": null
+  },
+  {
+   "n": 11,
+   "quality": 2,
+   "printed": null,
+   "words": 33,
+   "pdf": 8,
+   "overlap": 0.767,
+   "method": "text",
+   "ours": null
+  },
+  {
+   "n": 12,
+   "quality": 0,
+   "printed": null,
+   "words": 0,
+   "pdf": 9,
+   "overlap": null,
+   "method": "inferred (too-short)",
+   "ours": null
+  },
+  {
+   "n": 13,
+   "quality": 4,
+   "printed": null,
+   "words": 156,
+   "pdf": 10,
+   "overlap": null,
+   "method": "inferred (unmatched)",
+   "ours": null
+  },
+  {
+   "n": 14,
+   "quality": 4,
+   "printed": "xiv",
+   "words": 268,
+   "pdf": 11,
+   "overlap": null,
+   "method": "inferred (unmatched)",
+   "ours": null
+  },
+  {
+   "n": 15,
+   "quality": 4,
+   "printed": null,
+   "words": 295,
+   "pdf": 12,
+   "overlap": 0.99,
+   "method": "text",
+   "ours": null
+  },
+  {
+   "n": 16,
+   "quality": 4,
+   "printed": "xvi",
+   "words": 439,
+   "pdf": 13,
+   "overlap": 1,
+   "method": "text",
+   "ours": null
+  },
+  {
+   "n": 17,
+   "quality": 4,
+   "printed": "xvii",
+   "words": 449,
+   "pdf": 14,
+   "overlap": 0.989,
+   "method": "text",
+   "ours": null
+  },
+  {
+   "n": 18,
+   "quality": 4,
+   "printed": "xviii",
+   "words": 85,
+   "pdf": 15,
+   "overlap": 1,
+   "method": "text",
+   "ours": null
+  },
+  {
+   "n": 19,
+   "quality": 4,
+   "printed": null,
+   "words": 295,
+   "pdf": 18,
+   "overlap": 0.932,
+   "method": "text",
+   "ours": 1
+  },
+  {
+   "n": 20,
+   "quality": 4,
+   "printed": "2",
+   "words": 501,
+   "pdf": 19,
+   "overlap": 0.946,
+   "method": "text",
+   "ours": 2
+  },
+  {
+   "n": 21,
+   "quality": 4,
+   "printed": "3",
+   "words": 501,
+   "pdf": 20,
+   "overlap": 0.963,
+   "method": "text",
+   "ours": 3
+  },
+  {
+   "n": 22,
+   "quality": 4,
+   "printed": "4",
+   "words": 451,
+   "pdf": 21,
+   "overlap": 0.953,
+   "method": "text",
+   "ours": 4
+  },
+  {
+   "n": 23,
+   "quality": 4,
+   "printed": "5",
+   "words": 527,
+   "pdf": 22,
+   "overlap": 0.966,
+   "method": "text",
+   "ours": 5
+  },
+  {
+   "n": 24,
+   "quality": 4,
+   "printed": "6",
+   "words": 521,
+   "pdf": 23,
+   "overlap": 0.955,
+   "method": "text",
+   "ours": 6
+  },
+  {
+   "n": 25,
+   "quality": 4,
+   "printed": "7",
+   "words": 502,
+   "pdf": 24,
+   "overlap": 0.952,
+   "method": "text",
+   "ours": 7
+  },
+  {
+   "n": 26,
+   "quality": 4,
+   "printed": "8",
+   "words": 488,
+   "pdf": 25,
+   "overlap": 0.956,
+   "method": "text",
+   "ours": 8
+  },
+  {
+   "n": 27,
+   "quality": 4,
+   "printed": "9",
+   "words": 517,
+   "pdf": 26,
+   "overlap": 0.964,
+   "method": "text",
+   "ours": 9
+  },
+  {
+   "n": 28,
+   "quality": 4,
+   "printed": "10",
+   "words": 522,
+   "pdf": 27,
+   "overlap": 0.965,
+   "method": "text",
+   "ours": 10
+  },
+  {
+   "n": 29,
+   "quality": 4,
+   "printed": "11",
+   "words": 514,
+   "pdf": 28,
+   "overlap": 0.97,
+   "method": "text",
+   "ours": 11
+  },
+  {
+   "n": 30,
+   "quality": 3,
+   "printed": "12",
+   "words": 525,
+   "pdf": 29,
+   "overlap": 0.971,
+   "method": "text",
+   "ours": 12
+  },
+  {
+   "n": 31,
+   "quality": 3,
+   "printed": "13",
+   "words": 510,
+   "pdf": 30,
+   "overlap": 0.948,
+   "method": "text",
+   "ours": 13
+  },
+  {
+   "n": 32,
+   "quality": 3,
+   "printed": "14",
+   "words": 447,
+   "pdf": 31,
+   "overlap": 0.968,
+   "method": "text",
+   "ours": 14
+  },
+  {
+   "n": 33,
+   "quality": 3,
+   "printed": "15",
+   "words": 0,
+   "pdf": 32,
+   "overlap": null,
+   "method": "inferred (too-short)",
+   "ours": 15
+  },
+  {
+   "n": 34,
+   "quality": 3,
+   "printed": "16",
+   "words": 524,
+   "pdf": 33,
+   "overlap": 0.971,
+   "method": "text",
+   "ours": 16
+  },
+  {
+   "n": 35,
+   "quality": 3,
+   "printed": "17",
+   "words": 486,
+   "pdf": 34,
+   "overlap": 0.963,
+   "method": "text",
+   "ours": 17
+  },
+  {
+   "n": 36,
+   "quality": 3,
+   "printed": "18",
+   "words": 411,
+   "pdf": 35,
+   "overlap": 0.971,
+   "method": "text",
+   "ours": 18
+  },
+  {
+   "n": 37,
+   "quality": 3,
+   "printed": "19",
+   "words": 393,
+   "pdf": 36,
+   "overlap": 0.935,
+   "method": "text",
+   "ours": 19
+  },
+  {
+   "n": 38,
+   "quality": 3,
+   "printed": "20",
+   "words": 456,
+   "pdf": 37,
+   "overlap": 0.96,
+   "method": "text",
+   "ours": 20
+  },
+  {
+   "n": 39,
+   "quality": 3,
+   "printed": "21",
+   "words": 397,
+   "pdf": 38,
+   "overlap": 0.957,
+   "method": "text",
+   "ours": 21
+  },
+  {
+   "n": 40,
+   "quality": 3,
+   "printed": "22",
+   "words": 427,
+   "pdf": 39,
+   "overlap": 0.953,
+   "method": "text",
+   "ours": 22
+  },
+  {
+   "n": 41,
+   "quality": 3,
+   "printed": "23",
+   "words": 425,
+   "pdf": 40,
+   "overlap": 0.971,
+   "method": "text",
+   "ours": 23
+  },
+  {
+   "n": 42,
+   "quality": 3,
+   "printed": "24",
+   "words": 492,
+   "pdf": 41,
+   "overlap": 0.963,
+   "method": "text",
+   "ours": 24
+  },
+  {
+   "n": 43,
+   "quality": 3,
+   "printed": "25",
+   "words": 514,
+   "pdf": 42,
+   "overlap": 0.951,
+   "method": "text",
+   "ours": 25
+  },
+  {
+   "n": 44,
+   "quality": 3,
+   "printed": "26",
+   "words": 356,
+   "pdf": 43,
+   "overlap": 0.983,
+   "method": "text",
+   "ours": 26
+  },
+  {
+   "n": 45,
+   "quality": 3,
+   "printed": "27",
+   "words": 550,
+   "pdf": 44,
+   "overlap": 0.965,
+   "method": "text",
+   "ours": 27
+  },
+  {
+   "n": 46,
+   "quality": 3,
+   "printed": "28",
+   "words": 498,
+   "pdf": 45,
+   "overlap": 0.953,
+   "method": "text",
+   "ours": 28
+  },
+  {
+   "n": 47,
+   "quality": 3,
+   "printed": "29",
+   "words": 434,
+   "pdf": 46,
+   "overlap": 0.958,
+   "method": "text",
+   "ours": 29
+  },
+  {
+   "n": 48,
+   "quality": 3,
+   "printed": "30",
+   "words": 406,
+   "pdf": 47,
+   "overlap": 0.97,
+   "method": "text",
+   "ours": 30
+  },
+  {
+   "n": 49,
+   "quality": 3,
+   "printed": "31",
+   "words": 406,
+   "pdf": 48,
+   "overlap": 0.977,
+   "method": "text",
+   "ours": 31
+  },
+  {
+   "n": 50,
+   "quality": 3,
+   "printed": "32",
+   "words": 218,
+   "pdf": 49,
+   "overlap": 0.654,
+   "method": "text",
+   "ours": 32
+  },
+  {
+   "n": 51,
+   "quality": 3,
+   "printed": "33",
+   "words": 222,
+   "pdf": 50,
+   "overlap": 0.882,
+   "method": "text",
+   "ours": 33
+  },
+  {
+   "n": 52,
+   "quality": 3,
+   "printed": "34",
+   "words": 492,
+   "pdf": 51,
+   "overlap": 0.965,
+   "method": "text",
+   "ours": 34
+  },
+  {
+   "n": 53,
+   "quality": 3,
+   "printed": "35",
+   "words": 463,
+   "pdf": 52,
+   "overlap": 0.946,
+   "method": "text",
+   "ours": 35
+  },
+  {
+   "n": 54,
+   "quality": 3,
+   "printed": "36",
+   "words": 485,
+   "pdf": 53,
+   "overlap": 0.975,
+   "method": "text",
+   "ours": 36
+  },
+  {
+   "n": 55,
+   "quality": 3,
+   "printed": "37",
+   "words": 459,
+   "pdf": 54,
+   "overlap": 0.952,
+   "method": "text",
+   "ours": 37
+  },
+  {
+   "n": 56,
+   "quality": 3,
+   "printed": "38",
+   "words": 477,
+   "pdf": 55,
+   "overlap": 0.956,
+   "method": "text",
+   "ours": 38
+  },
+  {
+   "n": 57,
+   "quality": 3,
+   "printed": "39",
+   "words": 557,
+   "pdf": 56,
+   "overlap": 0.954,
+   "method": "text",
+   "ours": 39
+  },
+  {
+   "n": 58,
+   "quality": 3,
+   "printed": "40",
+   "words": 539,
+   "pdf": 57,
+   "overlap": 0.952,
+   "method": "text",
+   "ours": 40
+  },
+  {
+   "n": 59,
+   "quality": 3,
+   "printed": "41",
+   "words": 531,
+   "pdf": 58,
+   "overlap": 0.939,
+   "method": "text",
+   "ours": 41
+  },
+  {
+   "n": 60,
+   "quality": 3,
+   "printed": "42",
+   "words": 411,
+   "pdf": 59,
+   "overlap": 0.955,
+   "method": "text",
+   "ours": 42
+  },
+  {
+   "n": 61,
+   "quality": 3,
+   "printed": "43",
+   "words": 411,
+   "pdf": 60,
+   "overlap": 0.971,
+   "method": "text",
+   "ours": 43
+  },
+  {
+   "n": 62,
+   "quality": 3,
+   "printed": "44",
+   "words": 481,
+   "pdf": 61,
+   "overlap": 0.975,
+   "method": "text",
+   "ours": 44
+  },
+  {
+   "n": 63,
+   "quality": 3,
+   "printed": "45",
+   "words": 485,
+   "pdf": 62,
+   "overlap": 0.971,
+   "method": "text",
+   "ours": 45
+  },
+  {
+   "n": 64,
+   "quality": 4,
+   "printed": "46",
+   "words": 99,
+   "pdf": 63,
+   "overlap": 0.969,
+   "method": "text",
+   "ours": 46
+  },
+  {
+   "n": 65,
+   "quality": 3,
+   "printed": null,
+   "words": 397,
+   "pdf": 64,
+   "overlap": 0.972,
+   "method": "text",
+   "ours": 47
+  },
+  {
+   "n": 66,
+   "quality": 3,
+   "printed": "48",
+   "words": 480,
+   "pdf": 65,
+   "overlap": 0.971,
+   "method": "text",
+   "ours": 48
+  },
+  {
+   "n": 67,
+   "quality": 3,
+   "printed": "49",
+   "words": 190,
+   "pdf": 66,
+   "overlap": 0.989,
+   "method": "text",
+   "ours": 49
+  },
+  {
+   "n": 68,
+   "quality": 3,
+   "printed": "50",
+   "words": 510,
+   "pdf": 67,
+   "overlap": 0.976,
+   "method": "text",
+   "ours": 50
+  },
+  {
+   "n": 69,
+   "quality": 3,
+   "printed": "51",
+   "words": 525,
+   "pdf": 68,
+   "overlap": 0.95,
+   "method": "text",
+   "ours": 51
+  },
+  {
+   "n": 70,
+   "quality": 3,
+   "printed": "52",
+   "words": 458,
+   "pdf": 69,
+   "overlap": 0.974,
+   "method": "text",
+   "ours": 52
+  },
+  {
+   "n": 71,
+   "quality": 3,
+   "printed": "53",
+   "words": 448,
+   "pdf": 70,
+   "overlap": 0.993,
+   "method": "text",
+   "ours": 53
+  },
+  {
+   "n": 72,
+   "quality": 3,
+   "printed": "54",
+   "words": 465,
+   "pdf": 71,
+   "overlap": 0.983,
+   "method": "text",
+   "ours": 54
+  },
+  {
+   "n": 73,
+   "quality": 3,
+   "printed": "55",
+   "words": 457,
+   "pdf": 72,
+   "overlap": 0.98,
+   "method": "text",
+   "ours": 55
+  },
+  {
+   "n": 74,
+   "quality": 3,
+   "printed": "56",
+   "words": 481,
+   "pdf": 73,
+   "overlap": 0.952,
+   "method": "text",
+   "ours": 56
+  },
+  {
+   "n": 75,
+   "quality": 3,
+   "printed": "57",
+   "words": 500,
+   "pdf": 74,
+   "overlap": 0.948,
+   "method": "text",
+   "ours": 57
+  },
+  {
+   "n": 76,
+   "quality": 3,
+   "printed": "58",
+   "words": 489,
+   "pdf": 75,
+   "overlap": 0.936,
+   "method": "text",
+   "ours": 58
+  },
+  {
+   "n": 77,
+   "quality": 3,
+   "printed": "59",
+   "words": 455,
+   "pdf": 76,
+   "overlap": 0.976,
+   "method": "text",
+   "ours": 59
+  },
+  {
+   "n": 78,
+   "quality": 3,
+   "printed": "60",
+   "words": 514,
+   "pdf": 77,
+   "overlap": 0.943,
+   "method": "text",
+   "ours": 60
+  },
+  {
+   "n": 79,
+   "quality": 3,
+   "printed": "61",
+   "words": 485,
+   "pdf": 78,
+   "overlap": 0.958,
+   "method": "text",
+   "ours": 61
+  },
+  {
+   "n": 80,
+   "quality": 3,
+   "printed": "62",
+   "words": 538,
+   "pdf": 79,
+   "overlap": 0.972,
+   "method": "text",
+   "ours": 62
+  },
+  {
+   "n": 81,
+   "quality": 3,
+   "printed": "63",
+   "words": 448,
+   "pdf": 80,
+   "overlap": 0.955,
+   "method": "text",
+   "ours": 63
+  },
+  {
+   "n": 82,
+   "quality": 3,
+   "printed": "64",
+   "words": 163,
+   "pdf": 81,
+   "overlap": 0.981,
+   "method": "text",
+   "ours": 64
+  },
+  {
+   "n": 83,
+   "quality": 3,
+   "printed": "65",
+   "words": 531,
+   "pdf": 82,
+   "overlap": 0.956,
+   "method": "text",
+   "ours": 65
+  },
+  {
+   "n": 84,
+   "quality": 3,
+   "printed": "66",
+   "words": 495,
+   "pdf": 83,
+   "overlap": 0.976,
+   "method": "text",
+   "ours": 66
+  },
+  {
+   "n": 85,
+   "quality": 3,
+   "printed": "67",
+   "words": 490,
+   "pdf": 84,
+   "overlap": 0.959,
+   "method": "text",
+   "ours": 67
+  },
+  {
+   "n": 86,
+   "quality": 3,
+   "printed": "68",
+   "words": 505,
+   "pdf": 85,
+   "overlap": 0.966,
+   "method": "text",
+   "ours": 68
+  },
+  {
+   "n": 87,
+   "quality": 3,
+   "printed": "69",
+   "words": 537,
+   "pdf": 86,
+   "overlap": 0.968,
+   "method": "text",
+   "ours": 69
+  },
+  {
+   "n": 88,
+   "quality": 3,
+   "printed": "70",
+   "words": 254,
+   "pdf": 87,
+   "overlap": 0.959,
+   "method": "text",
+   "ours": 70
+  },
+  {
+   "n": 89,
+   "quality": 3,
+   "printed": null,
+   "words": 300,
+   "pdf": 88,
+   "overlap": 0.966,
+   "method": "text",
+   "ours": 71
+  },
+  {
+   "n": 90,
+   "quality": 3,
+   "printed": "72",
+   "words": 516,
+   "pdf": 89,
+   "overlap": 0.955,
+   "method": "text",
+   "ours": 72
+  },
+  {
+   "n": 91,
+   "quality": 3,
+   "printed": "73",
+   "words": 458,
+   "pdf": 90,
+   "overlap": 0.976,
+   "method": "text",
+   "ours": 73
+  },
+  {
+   "n": 92,
+   "quality": 3,
+   "printed": "74",
+   "words": 504,
+   "pdf": 91,
+   "overlap": 0.982,
+   "method": "text",
+   "ours": 74
+  },
+  {
+   "n": 93,
+   "quality": 3,
+   "printed": "75",
+   "words": 480,
+   "pdf": 92,
+   "overlap": 0.97,
+   "method": "text",
+   "ours": 75
+  },
+  {
+   "n": 94,
+   "quality": 3,
+   "printed": "76",
+   "words": 473,
+   "pdf": 93,
+   "overlap": 0.968,
+   "method": "text",
+   "ours": 76
+  },
+  {
+   "n": 95,
+   "quality": 3,
+   "printed": "77",
+   "words": 469,
+   "pdf": 94,
+   "overlap": 0.956,
+   "method": "text",
+   "ours": 77
+  },
+  {
+   "n": 96,
+   "quality": 3,
+   "printed": "78",
+   "words": 464,
+   "pdf": 95,
+   "overlap": 0.945,
+   "method": "text",
+   "ours": 78
+  },
+  {
+   "n": 97,
+   "quality": 3,
+   "printed": "79",
+   "words": 479,
+   "pdf": 96,
+   "overlap": 0.968,
+   "method": "text",
+   "ours": 79
+  },
+  {
+   "n": 98,
+   "quality": 3,
+   "printed": "80",
+   "words": 459,
+   "pdf": 97,
+   "overlap": 0.967,
+   "method": "text",
+   "ours": 80
+  },
+  {
+   "n": 99,
+   "quality": 3,
+   "printed": "81",
+   "words": 512,
+   "pdf": 98,
+   "overlap": 0.976,
+   "method": "text",
+   "ours": 81
+  },
+  {
+   "n": 100,
+   "quality": 3,
+   "printed": "82",
+   "words": 450,
+   "pdf": 99,
+   "overlap": 0.98,
+   "method": "text",
+   "ours": 82
+  },
+  {
+   "n": 101,
+   "quality": 3,
+   "printed": "83",
+   "words": 507,
+   "pdf": 100,
+   "overlap": 0.966,
+   "method": "text",
+   "ours": 83
+  },
+  {
+   "n": 102,
+   "quality": 3,
+   "printed": "84",
+   "words": 482,
+   "pdf": 101,
+   "overlap": 0.969,
+   "method": "text",
+   "ours": 84
+  },
+  {
+   "n": 103,
+   "quality": 3,
+   "printed": "85",
+   "words": 510,
+   "pdf": 102,
+   "overlap": 0.976,
+   "method": "text",
+   "ours": 85
+  },
+  {
+   "n": 104,
+   "quality": 3,
+   "printed": "86",
+   "words": 432,
+   "pdf": 103,
+   "overlap": 0.96,
+   "method": "text",
+   "ours": 86
+  },
+  {
+   "n": 105,
+   "quality": 3,
+   "printed": "87",
+   "words": 446,
+   "pdf": 104,
+   "overlap": 0.982,
+   "method": "text",
+   "ours": 87
+  },
+  {
+   "n": 106,
+   "quality": 3,
+   "printed": "88",
+   "words": 455,
+   "pdf": 105,
+   "overlap": 0.993,
+   "method": "text",
+   "ours": 88
+  },
+  {
+   "n": 107,
+   "quality": 3,
+   "printed": "89",
+   "words": 481,
+   "pdf": 106,
+   "overlap": 0.96,
+   "method": "text",
+   "ours": 89
+  },
+  {
+   "n": 108,
+   "quality": 3,
+   "printed": "90",
+   "words": 490,
+   "pdf": 107,
+   "overlap": 0.982,
+   "method": "text",
+   "ours": 90
+  },
+  {
+   "n": 109,
+   "quality": 3,
+   "printed": "91",
+   "words": 497,
+   "pdf": 108,
+   "overlap": 0.988,
+   "method": "text",
+   "ours": 91
+  },
+  {
+   "n": 110,
+   "quality": 3,
+   "printed": "92",
+   "words": 470,
+   "pdf": 109,
+   "overlap": 0.974,
+   "method": "text",
+   "ours": 92
+  },
+  {
+   "n": 111,
+   "quality": 4,
+   "printed": "93",
+   "words": 463,
+   "pdf": 110,
+   "overlap": 0.98,
+   "method": "text",
+   "ours": 93
+  },
+  {
+   "n": 112,
+   "quality": 4,
+   "printed": "94",
+   "words": 441,
+   "pdf": 111,
+   "overlap": 0.97,
+   "method": "text",
+   "ours": 94
+  },
+  {
+   "n": 113,
+   "quality": 4,
+   "printed": "95",
+   "words": 460,
+   "pdf": 112,
+   "overlap": 0.98,
+   "method": "text",
+   "ours": 95
+  },
+  {
+   "n": 114,
+   "quality": 3,
+   "printed": "96",
+   "words": 474,
+   "pdf": 113,
+   "overlap": 0.987,
+   "method": "text",
+   "ours": 96
+  },
+  {
+   "n": 115,
+   "quality": 3,
+   "printed": "97",
+   "words": 498,
+   "pdf": 114,
+   "overlap": 0.972,
+   "method": "text",
+   "ours": 97
+  },
+  {
+   "n": 116,
+   "quality": 3,
+   "printed": "98",
+   "words": 445,
+   "pdf": 115,
+   "overlap": 0.982,
+   "method": "text",
+   "ours": 98
+  },
+  {
+   "n": 117,
+   "quality": 4,
+   "printed": "99",
+   "words": 482,
+   "pdf": 116,
+   "overlap": 0.975,
+   "method": "text",
+   "ours": 99
+  },
+  {
+   "n": 118,
+   "quality": 4,
+   "printed": "100",
+   "words": 511,
+   "pdf": 117,
+   "overlap": 0.994,
+   "method": "text",
+   "ours": 100
+  },
+  {
+   "n": 119,
+   "quality": 4,
+   "printed": "101",
+   "words": 473,
+   "pdf": 118,
+   "overlap": 0.974,
+   "method": "text",
+   "ours": 101
+  },
+  {
+   "n": 120,
+   "quality": 4,
+   "printed": "102",
+   "words": 417,
+   "pdf": 119,
+   "overlap": 0.993,
+   "method": "text",
+   "ours": 102
+  },
+  {
+   "n": 121,
+   "quality": 3,
+   "printed": "103",
+   "words": 429,
+   "pdf": 120,
+   "overlap": 0.988,
+   "method": "text",
+   "ours": 103
+  },
+  {
+   "n": 122,
+   "quality": 3,
+   "printed": "104",
+   "words": 463,
+   "pdf": 121,
+   "overlap": 0.976,
+   "method": "text",
+   "ours": 104
+  },
+  {
+   "n": 123,
+   "quality": 4,
+   "printed": "105",
+   "words": 470,
+   "pdf": 122,
+   "overlap": 0.97,
+   "method": "text",
+   "ours": 105
+  },
+  {
+   "n": 124,
+   "quality": 4,
+   "printed": "106",
+   "words": 501,
+   "pdf": 123,
+   "overlap": 0.982,
+   "method": "text",
+   "ours": 106
+  },
+  {
+   "n": 125,
+   "quality": 4,
+   "printed": "107",
+   "words": 169,
+   "pdf": 124,
+   "overlap": 0.964,
+   "method": "text",
+   "ours": 107
+  },
+  {
+   "n": 126,
+   "quality": 3,
+   "printed": null,
+   "words": 299,
+   "pdf": 125,
+   "overlap": 1,
+   "method": "text",
+   "ours": 108
+  },
+  {
+   "n": 127,
+   "quality": 3,
+   "printed": "109",
+   "words": 535,
+   "pdf": 126,
+   "overlap": 0.972,
+   "method": "text",
+   "ours": 109
+  },
+  {
+   "n": 128,
+   "quality": 3,
+   "printed": "110",
+   "words": 507,
+   "pdf": 127,
+   "overlap": 0.958,
+   "method": "text",
+   "ours": 110
+  },
+  {
+   "n": 129,
+   "quality": 3,
+   "printed": "111",
+   "words": 530,
+   "pdf": 128,
+   "overlap": 0.947,
+   "method": "text",
+   "ours": 111
+  },
+  {
+   "n": 130,
+   "quality": 3,
+   "printed": "112",
+   "words": 525,
+   "pdf": 129,
+   "overlap": 0.977,
+   "method": "text",
+   "ours": 112
+  },
+  {
+   "n": 131,
+   "quality": 3,
+   "printed": "113",
+   "words": 516,
+   "pdf": 130,
+   "overlap": 0.977,
+   "method": "text",
+   "ours": 113
+  },
+  {
+   "n": 132,
+   "quality": 3,
+   "printed": "114",
+   "words": 548,
+   "pdf": 131,
+   "overlap": 0.972,
+   "method": "text",
+   "ours": 114
+  },
+  {
+   "n": 133,
+   "quality": 3,
+   "printed": "115",
+   "words": 443,
+   "pdf": 132,
+   "overlap": 0.966,
+   "method": "text",
+   "ours": 115
+  },
+  {
+   "n": 134,
+   "quality": 3,
+   "printed": "116",
+   "words": 490,
+   "pdf": 133,
+   "overlap": 0.963,
+   "method": "text",
+   "ours": 116
+  },
+  {
+   "n": 135,
+   "quality": 3,
+   "printed": "117",
+   "words": 536,
+   "pdf": 134,
+   "overlap": 0.957,
+   "method": "text",
+   "ours": 117
+  },
+  {
+   "n": 136,
+   "quality": 3,
+   "printed": "118",
+   "words": 502,
+   "pdf": 135,
+   "overlap": 0.96,
+   "method": "text",
+   "ours": 118
+  },
+  {
+   "n": 137,
+   "quality": 3,
+   "printed": "119",
+   "words": 476,
+   "pdf": 136,
+   "overlap": 0.987,
+   "method": "text",
+   "ours": 119
+  },
+  {
+   "n": 138,
+   "quality": 3,
+   "printed": "120",
+   "words": 505,
+   "pdf": 137,
+   "overlap": 0.956,
+   "method": "text",
+   "ours": 120
+  },
+  {
+   "n": 139,
+   "quality": 3,
+   "printed": "121",
+   "words": 469,
+   "pdf": 138,
+   "overlap": 0.957,
+   "method": "text",
+   "ours": 121
+  },
+  {
+   "n": 140,
+   "quality": 3,
+   "printed": "122",
+   "words": 517,
+   "pdf": 139,
+   "overlap": 0.959,
+   "method": "text",
+   "ours": 122
+  },
+  {
+   "n": 141,
+   "quality": 3,
+   "printed": "123",
+   "words": 495,
+   "pdf": 140,
+   "overlap": 0.953,
+   "method": "text",
+   "ours": 123
+  },
+  {
+   "n": 142,
+   "quality": 3,
+   "printed": "124",
+   "words": 504,
+   "pdf": 141,
+   "overlap": 0.96,
+   "method": "text",
+   "ours": 124
+  },
+  {
+   "n": 143,
+   "quality": 3,
+   "printed": "125",
+   "words": 511,
+   "pdf": 142,
+   "overlap": 0.935,
+   "method": "text",
+   "ours": 125
+  },
+  {
+   "n": 144,
+   "quality": 3,
+   "printed": "126",
+   "words": 457,
+   "pdf": 143,
+   "overlap": 0.947,
+   "method": "text",
+   "ours": 126
+  },
+  {
+   "n": 145,
+   "quality": 3,
+   "printed": "127",
+   "words": 522,
+   "pdf": 144,
+   "overlap": 0.955,
+   "method": "text",
+   "ours": 127
+  },
+  {
+   "n": 146,
+   "quality": 3,
+   "printed": "128",
+   "words": 407,
+   "pdf": 145,
+   "overlap": 0.95,
+   "method": "text",
+   "ours": 128
+  },
+  {
+   "n": 147,
+   "quality": 3,
+   "printed": "129",
+   "words": 375,
+   "pdf": 146,
+   "overlap": 0.973,
+   "method": "text",
+   "ours": 129
+  },
+  {
+   "n": 148,
+   "quality": 3,
+   "printed": "130",
+   "words": 497,
+   "pdf": 147,
+   "overlap": 0.962,
+   "method": "text",
+   "ours": 130
+  },
+  {
+   "n": 149,
+   "quality": 3,
+   "printed": "131",
+   "words": 528,
+   "pdf": 148,
+   "overlap": 0.969,
+   "method": "text",
+   "ours": 131
+  },
+  {
+   "n": 150,
+   "quality": 3,
+   "printed": "132",
+   "words": 546,
+   "pdf": 149,
+   "overlap": 0.978,
+   "method": "text",
+   "ours": 132
+  },
+  {
+   "n": 151,
+   "quality": 3,
+   "printed": "133",
+   "words": 519,
+   "pdf": 150,
+   "overlap": 0.949,
+   "method": "text",
+   "ours": 133
+  },
+  {
+   "n": 152,
+   "quality": 3,
+   "printed": "134",
+   "words": 457,
+   "pdf": 151,
+   "overlap": 0.96,
+   "method": "text",
+   "ours": 134
+  },
+  {
+   "n": 153,
+   "quality": 3,
+   "printed": "135",
+   "words": 503,
+   "pdf": 152,
+   "overlap": 0.976,
+   "method": "text",
+   "ours": 135
+  },
+  {
+   "n": 154,
+   "quality": 3,
+   "printed": "136",
+   "words": 510,
+   "pdf": 153,
+   "overlap": 0.952,
+   "method": "text",
+   "ours": 136
+  },
+  {
+   "n": 155,
+   "quality": 3,
+   "printed": "137",
+   "words": 507,
+   "pdf": 154,
+   "overlap": 0.948,
+   "method": "text",
+   "ours": 137
+  },
+  {
+   "n": 156,
+   "quality": 3,
+   "printed": "138",
+   "words": 521,
+   "pdf": 155,
+   "overlap": 0.922,
+   "method": "text",
+   "ours": 138
+  },
+  {
+   "n": 157,
+   "quality": 3,
+   "printed": "139",
+   "words": 478,
+   "pdf": 156,
+   "overlap": 0.941,
+   "method": "text",
+   "ours": 139
+  },
+  {
+   "n": 158,
+   "quality": 3,
+   "printed": "140",
+   "words": 551,
+   "pdf": 157,
+   "overlap": 0.973,
+   "method": "text",
+   "ours": 140
+  },
+  {
+   "n": 159,
+   "quality": 3,
+   "printed": "141",
+   "words": 516,
+   "pdf": 158,
+   "overlap": 0.947,
+   "method": "text",
+   "ours": 141
+  },
+  {
+   "n": 160,
+   "quality": 3,
+   "printed": "142",
+   "words": 506,
+   "pdf": 159,
+   "overlap": 0.964,
+   "method": "text",
+   "ours": 142
+  },
+  {
+   "n": 161,
+   "quality": 3,
+   "printed": "143",
+   "words": 237,
+   "pdf": 160,
+   "overlap": 0.974,
+   "method": "text",
+   "ours": 143
+  },
+  {
+   "n": 162,
+   "quality": 0,
+   "printed": null,
+   "words": 0,
+   "pdf": 161,
+   "overlap": null,
+   "method": "inferred (too-short)",
+   "ours": 144
+  },
+  {
+   "n": 163,
+   "quality": 3,
+   "printed": null,
+   "words": 298,
+   "pdf": 162,
+   "overlap": 0.973,
+   "method": "text",
+   "ours": 145
+  },
+  {
+   "n": 164,
+   "quality": 3,
+   "printed": "146",
+   "words": 412,
+   "pdf": 163,
+   "overlap": 0.966,
+   "method": "text",
+   "ours": 146
+  },
+  {
+   "n": 165,
+   "quality": 3,
+   "printed": "147",
+   "words": 535,
+   "pdf": 164,
+   "overlap": 0.974,
+   "method": "text",
+   "ours": 147
+  },
+  {
+   "n": 166,
+   "quality": 3,
+   "printed": "148",
+   "words": 241,
+   "pdf": 165,
+   "overlap": 0.975,
+   "method": "text",
+   "ours": 148
+  },
+  {
+   "n": 167,
+   "quality": 3,
+   "printed": "149",
+   "words": 506,
+   "pdf": 166,
+   "overlap": 0.964,
+   "method": "text",
+   "ours": 149
+  },
+  {
+   "n": 168,
+   "quality": 3,
+   "printed": "150",
+   "words": 498,
+   "pdf": 167,
+   "overlap": 0.972,
+   "method": "text",
+   "ours": 150
+  },
+  {
+   "n": 169,
+   "quality": 3,
+   "printed": "151",
+   "words": 504,
+   "pdf": 168,
+   "overlap": 0.964,
+   "method": "text",
+   "ours": 151
+  },
+  {
+   "n": 170,
+   "quality": 3,
+   "printed": "152",
+   "words": 487,
+   "pdf": 169,
+   "overlap": 0.975,
+   "method": "text",
+   "ours": 152
+  },
+  {
+   "n": 171,
+   "quality": 3,
+   "printed": "153",
+   "words": 471,
+   "pdf": 170,
+   "overlap": 0.974,
+   "method": "text",
+   "ours": 153
+  },
+  {
+   "n": 172,
+   "quality": 3,
+   "printed": "154",
+   "words": 499,
+   "pdf": 171,
+   "overlap": 0.96,
+   "method": "text",
+   "ours": 154
+  },
+  {
+   "n": 173,
+   "quality": 3,
+   "printed": "155",
+   "words": 571,
+   "pdf": 172,
+   "overlap": 0.961,
+   "method": "text",
+   "ours": 155
+  },
+  {
+   "n": 174,
+   "quality": 3,
+   "printed": "156",
+   "words": 521,
+   "pdf": 173,
+   "overlap": 0.983,
+   "method": "text",
+   "ours": 156
+  },
+  {
+   "n": 175,
+   "quality": 3,
+   "printed": "157",
+   "words": 498,
+   "pdf": 174,
+   "overlap": 0.933,
+   "method": "text",
+   "ours": 157
+  },
+  {
+   "n": 176,
+   "quality": 3,
+   "printed": "158",
+   "words": 560,
+   "pdf": 175,
+   "overlap": 0.955,
+   "method": "text",
+   "ours": 158
+  },
+  {
+   "n": 177,
+   "quality": 3,
+   "printed": "159",
+   "words": 541,
+   "pdf": 176,
+   "overlap": 0.972,
+   "method": "text",
+   "ours": 159
+  },
+  {
+   "n": 178,
+   "quality": 3,
+   "printed": "160",
+   "words": 453,
+   "pdf": 177,
+   "overlap": 0.993,
+   "method": "text",
+   "ours": 160
+  },
+  {
+   "n": 179,
+   "quality": 3,
+   "printed": "161",
+   "words": 468,
+   "pdf": 178,
+   "overlap": 0.974,
+   "method": "text",
+   "ours": 161
+  },
+  {
+   "n": 180,
+   "quality": 3,
+   "printed": "162",
+   "words": 509,
+   "pdf": 179,
+   "overlap": 0.97,
+   "method": "text",
+   "ours": 162
+  },
+  {
+   "n": 181,
+   "quality": 3,
+   "printed": "163",
+   "words": 502,
+   "pdf": 180,
+   "overlap": 0.976,
+   "method": "text",
+   "ours": 163
+  },
+  {
+   "n": 182,
+   "quality": 3,
+   "printed": "164",
+   "words": 476,
+   "pdf": 181,
+   "overlap": 0.953,
+   "method": "text",
+   "ours": 164
+  },
+  {
+   "n": 183,
+   "quality": 3,
+   "printed": "165",
+   "words": 453,
+   "pdf": 182,
+   "overlap": 0.96,
+   "method": "text",
+   "ours": 165
+  },
+  {
+   "n": 184,
+   "quality": 3,
+   "printed": "166",
+   "words": 517,
+   "pdf": 183,
+   "overlap": 0.976,
+   "method": "text",
+   "ours": 166
+  },
+  {
+   "n": 185,
+   "quality": 3,
+   "printed": "167",
+   "words": 498,
+   "pdf": 184,
+   "overlap": 0.958,
+   "method": "text",
+   "ours": 167
+  },
+  {
+   "n": 186,
+   "quality": 3,
+   "printed": "168",
+   "words": 494,
+   "pdf": 185,
+   "overlap": 0.969,
+   "method": "text",
+   "ours": 168
+  },
+  {
+   "n": 187,
+   "quality": 3,
+   "printed": "169",
+   "words": 438,
+   "pdf": 186,
+   "overlap": 0.966,
+   "method": "text",
+   "ours": 169
+  },
+  {
+   "n": 188,
+   "quality": 3,
+   "printed": "170",
+   "words": 508,
+   "pdf": 187,
+   "overlap": 0.948,
+   "method": "text",
+   "ours": 170
+  },
+  {
+   "n": 189,
+   "quality": 3,
+   "printed": "171",
+   "words": 504,
+   "pdf": 188,
+   "overlap": 0.924,
+   "method": "text",
+   "ours": 171
+  },
+  {
+   "n": 190,
+   "quality": 3,
+   "printed": "172",
+   "words": 455,
+   "pdf": 189,
+   "overlap": 0.98,
+   "method": "text",
+   "ours": 172
+  },
+  {
+   "n": 191,
+   "quality": 3,
+   "printed": "173",
+   "words": 102,
+   "pdf": 190,
+   "overlap": 1,
+   "method": "text",
+   "ours": 173
+  },
+  {
+   "n": 192,
+   "quality": 3,
+   "printed": null,
+   "words": 282,
+   "pdf": 191,
+   "overlap": 0.953,
+   "method": "text",
+   "ours": 174
+  },
+  {
+   "n": 193,
+   "quality": 3,
+   "printed": "175",
+   "words": 510,
+   "pdf": 192,
+   "overlap": 0.954,
+   "method": "text",
+   "ours": 175
+  },
+  {
+   "n": 194,
+   "quality": 3,
+   "printed": "176",
+   "words": 476,
+   "pdf": 193,
+   "overlap": 0.945,
+   "method": "text",
+   "ours": 176
+  },
+  {
+   "n": 195,
+   "quality": 3,
+   "printed": "177",
+   "words": 466,
+   "pdf": 194,
+   "overlap": 0.963,
+   "method": "text",
+   "ours": 177
+  },
+  {
+   "n": 196,
+   "quality": 3,
+   "printed": "178",
+   "words": 419,
+   "pdf": 195,
+   "overlap": 0.94,
+   "method": "text",
+   "ours": 178
+  },
+  {
+   "n": 197,
+   "quality": 3,
+   "printed": "179",
+   "words": 484,
+   "pdf": 196,
+   "overlap": 0.927,
+   "method": "text",
+   "ours": 179
+  },
+  {
+   "n": 198,
+   "quality": 3,
+   "printed": "180",
+   "words": 486,
+   "pdf": 197,
+   "overlap": 0.952,
+   "method": "text",
+   "ours": 180
+  },
+  {
+   "n": 199,
+   "quality": 3,
+   "printed": "181",
+   "words": 527,
+   "pdf": 198,
+   "overlap": 0.925,
+   "method": "text",
+   "ours": 181
+  },
+  {
+   "n": 200,
+   "quality": 3,
+   "printed": "182",
+   "words": 464,
+   "pdf": 199,
+   "overlap": 0.943,
+   "method": "text",
+   "ours": 182
+  },
+  {
+   "n": 201,
+   "quality": 3,
+   "printed": "183",
+   "words": 559,
+   "pdf": 200,
+   "overlap": 0.946,
+   "method": "text",
+   "ours": 183
+  },
+  {
+   "n": 202,
+   "quality": 3,
+   "printed": "184",
+   "words": 538,
+   "pdf": 201,
+   "overlap": 0.949,
+   "method": "text",
+   "ours": 184
+  },
+  {
+   "n": 203,
+   "quality": 3,
+   "printed": "185",
+   "words": 495,
+   "pdf": 202,
+   "overlap": 0.931,
+   "method": "text",
+   "ours": 185
+  },
+  {
+   "n": 204,
+   "quality": 3,
+   "printed": "186",
+   "words": 450,
+   "pdf": 203,
+   "overlap": 0.96,
+   "method": "text",
+   "ours": 186
+  },
+  {
+   "n": 205,
+   "quality": 3,
+   "printed": "187",
+   "words": 364,
+   "pdf": 204,
+   "overlap": 0.922,
+   "method": "text",
+   "ours": 187
+  },
+  {
+   "n": 206,
+   "quality": 3,
+   "printed": "188",
+   "words": 525,
+   "pdf": 205,
+   "overlap": 0.954,
+   "method": "text",
+   "ours": 188
+  },
+  {
+   "n": 207,
+   "quality": 3,
+   "printed": "189",
+   "words": 542,
+   "pdf": 206,
+   "overlap": 0.955,
+   "method": "text",
+   "ours": 189
+  },
+  {
+   "n": 208,
+   "quality": 3,
+   "printed": "190",
+   "words": 472,
+   "pdf": 207,
+   "overlap": 0.968,
+   "method": "text",
+   "ours": 190
+  },
+  {
+   "n": 209,
+   "quality": 3,
+   "printed": "191",
+   "words": 470,
+   "pdf": 208,
+   "overlap": 0.968,
+   "method": "text",
+   "ours": 191
+  },
+  {
+   "n": 210,
+   "quality": 3,
+   "printed": "192",
+   "words": 490,
+   "pdf": 209,
+   "overlap": 0.969,
+   "method": "text",
+   "ours": 192
+  },
+  {
+   "n": 211,
+   "quality": 3,
+   "printed": "193",
+   "words": 491,
+   "pdf": 210,
+   "overlap": 0.963,
+   "method": "text",
+   "ours": 193
+  },
+  {
+   "n": 212,
+   "quality": 3,
+   "printed": "194",
+   "words": 477,
+   "pdf": 211,
+   "overlap": 0.975,
+   "method": "text",
+   "ours": 194
+  },
+  {
+   "n": 213,
+   "quality": 3,
+   "printed": "195",
+   "words": 521,
+   "pdf": 212,
+   "overlap": 0.971,
+   "method": "text",
+   "ours": 195
+  },
+  {
+   "n": 214,
+   "quality": 3,
+   "printed": "196",
+   "words": 525,
+   "pdf": 213,
+   "overlap": 0.961,
+   "method": "text",
+   "ours": 196
+  },
+  {
+   "n": 215,
+   "quality": 3,
+   "printed": "197",
+   "words": 418,
+   "pdf": 214,
+   "overlap": 0.973,
+   "method": "text",
+   "ours": 197
+  },
+  {
+   "n": 216,
+   "quality": 3,
+   "printed": "198",
+   "words": 486,
+   "pdf": 215,
+   "overlap": 0.988,
+   "method": "text",
+   "ours": 198
+  },
+  {
+   "n": 217,
+   "quality": 3,
+   "printed": "199",
+   "words": 511,
+   "pdf": 216,
+   "overlap": 0.938,
+   "method": "text",
+   "ours": 199
+  },
+  {
+   "n": 218,
+   "quality": 3,
+   "printed": "200",
+   "words": 494,
+   "pdf": 217,
+   "overlap": 0.975,
+   "method": "text",
+   "ours": 200
+  },
+  {
+   "n": 219,
+   "quality": 3,
+   "printed": "201",
+   "words": 516,
+   "pdf": 218,
+   "overlap": 0.965,
+   "method": "text",
+   "ours": 201
+  },
+  {
+   "n": 220,
+   "quality": 3,
+   "printed": "202",
+   "words": 509,
+   "pdf": 219,
+   "overlap": 0.94,
+   "method": "text",
+   "ours": 202
+  },
+  {
+   "n": 221,
+   "quality": 3,
+   "printed": "203",
+   "words": 457,
+   "pdf": 220,
+   "overlap": 0.954,
+   "method": "text",
+   "ours": 203
+  },
+  {
+   "n": 222,
+   "quality": 3,
+   "printed": "204",
+   "words": 501,
+   "pdf": 221,
+   "overlap": 0.948,
+   "method": "text",
+   "ours": 204
+  },
+  {
+   "n": 223,
+   "quality": 3,
+   "printed": "205",
+   "words": 515,
+   "pdf": 222,
+   "overlap": 0.949,
+   "method": "text",
+   "ours": 205
+  },
+  {
+   "n": 224,
+   "quality": 3,
+   "printed": "206",
+   "words": 526,
+   "pdf": 223,
+   "overlap": 0.952,
+   "method": "text",
+   "ours": 206
+  },
+  {
+   "n": 225,
+   "quality": 3,
+   "printed": "207",
+   "words": 495,
+   "pdf": 224,
+   "overlap": 0.953,
+   "method": "text",
+   "ours": 207
+  },
+  {
+   "n": 226,
+   "quality": 3,
+   "printed": "208",
+   "words": 494,
+   "pdf": 225,
+   "overlap": 0.957,
+   "method": "text",
+   "ours": 208
+  },
+  {
+   "n": 227,
+   "quality": 3,
+   "printed": "209",
+   "words": 492,
+   "pdf": 226,
+   "overlap": 0.975,
+   "method": "text",
+   "ours": 209
+  },
+  {
+   "n": 228,
+   "quality": 3,
+   "printed": "210",
+   "words": 461,
+   "pdf": 227,
+   "overlap": 0.956,
+   "method": "text",
+   "ours": 210
+  },
+  {
+   "n": 229,
+   "quality": 3,
+   "printed": "211",
+   "words": 519,
+   "pdf": 228,
+   "overlap": 0.95,
+   "method": "text",
+   "ours": 211
+  },
+  {
+   "n": 230,
+   "quality": 3,
+   "printed": "212",
+   "words": 516,
+   "pdf": 229,
+   "overlap": 0.977,
+   "method": "text",
+   "ours": 212
+  },
+  {
+   "n": 231,
+   "quality": 3,
+   "printed": "213",
+   "words": 507,
+   "pdf": 230,
+   "overlap": 0.958,
+   "method": "text",
+   "ours": 213
+  },
+  {
+   "n": 232,
+   "quality": 3,
+   "printed": "214",
+   "words": 427,
+   "pdf": 231,
+   "overlap": 0.946,
+   "method": "text",
+   "ours": 214
+  },
+  {
+   "n": 233,
+   "quality": 3,
+   "printed": null,
+   "words": 337,
+   "pdf": 232,
+   "overlap": 0.955,
+   "method": "text",
+   "ours": 215
+  },
+  {
+   "n": 234,
+   "quality": 3,
+   "printed": "216",
+   "words": 514,
+   "pdf": 233,
+   "overlap": 0.964,
+   "method": "text",
+   "ours": 216
+  },
+  {
+   "n": 235,
+   "quality": 3,
+   "printed": "217",
+   "words": 504,
+   "pdf": 234,
+   "overlap": 0.97,
+   "method": "text",
+   "ours": 217
+  },
+  {
+   "n": 236,
+   "quality": 3,
+   "printed": "218",
+   "words": 490,
+   "pdf": 235,
+   "overlap": 0.969,
+   "method": "text",
+   "ours": 218
+  },
+  {
+   "n": 237,
+   "quality": 3,
+   "printed": "219",
+   "words": 545,
+   "pdf": 236,
+   "overlap": 0.963,
+   "method": "text",
+   "ours": 219
+  },
+  {
+   "n": 238,
+   "quality": 3,
+   "printed": "220",
+   "words": 526,
+   "pdf": 237,
+   "overlap": 0.958,
+   "method": "text",
+   "ours": 220
+  },
+  {
+   "n": 239,
+   "quality": 3,
+   "printed": "221",
+   "words": 478,
+   "pdf": 238,
+   "overlap": 0.968,
+   "method": "text",
+   "ours": 221
+  },
+  {
+   "n": 240,
+   "quality": 3,
+   "printed": "222",
+   "words": 528,
+   "pdf": 239,
+   "overlap": 0.96,
+   "method": "text",
+   "ours": 222
+  },
+  {
+   "n": 241,
+   "quality": 4,
+   "printed": "223",
+   "words": 493,
+   "pdf": 240,
+   "overlap": 0.95,
+   "method": "text",
+   "ours": 223
+  },
+  {
+   "n": 242,
+   "quality": 3,
+   "printed": "224",
+   "words": 536,
+   "pdf": 241,
+   "overlap": 0.929,
+   "method": "text",
+   "ours": 224
+  },
+  {
+   "n": 243,
+   "quality": 3,
+   "printed": "225",
+   "words": 505,
+   "pdf": 242,
+   "overlap": 0.962,
+   "method": "text",
+   "ours": 225
+  },
+  {
+   "n": 244,
+   "quality": 3,
+   "printed": "226",
+   "words": 507,
+   "pdf": 243,
+   "overlap": 0.946,
+   "method": "text",
+   "ours": 226
+  },
+  {
+   "n": 245,
+   "quality": 3,
+   "printed": "227",
+   "words": 495,
+   "pdf": 244,
+   "overlap": 0.937,
+   "method": "text",
+   "ours": 227
+  },
+  {
+   "n": 246,
+   "quality": 3,
+   "printed": "228",
+   "words": 463,
+   "pdf": 245,
+   "overlap": 0.976,
+   "method": "text",
+   "ours": 228
+  },
+  {
+   "n": 247,
+   "quality": 3,
+   "printed": "229",
+   "words": 455,
+   "pdf": 246,
+   "overlap": 0.973,
+   "method": "text",
+   "ours": 229
+  },
+  {
+   "n": 248,
+   "quality": 3,
+   "printed": "230",
+   "words": 499,
+   "pdf": 247,
+   "overlap": 0.949,
+   "method": "text",
+   "ours": 230
+  },
+  {
+   "n": 249,
+   "quality": 3,
+   "printed": "231",
+   "words": 459,
+   "pdf": 248,
+   "overlap": 0.967,
+   "method": "text",
+   "ours": 231
+  },
+  {
+   "n": 250,
+   "quality": 3,
+   "printed": "232",
+   "words": 512,
+   "pdf": 249,
+   "overlap": 0.957,
+   "method": "text",
+   "ours": 232
+  },
+  {
+   "n": 251,
+   "quality": 3,
+   "printed": "233",
+   "words": 529,
+   "pdf": 250,
+   "overlap": 0.948,
+   "method": "text",
+   "ours": 233
+  },
+  {
+   "n": 252,
+   "quality": 3,
+   "printed": "234",
+   "words": 483,
+   "pdf": 251,
+   "overlap": 0.937,
+   "method": "text",
+   "ours": 234
+  },
+  {
+   "n": 253,
+   "quality": 3,
+   "printed": "235",
+   "words": 533,
+   "pdf": 252,
+   "overlap": 0.964,
+   "method": "text",
+   "ours": 235
+  },
+  {
+   "n": 254,
+   "quality": 3,
+   "printed": "236",
+   "words": 518,
+   "pdf": 253,
+   "overlap": 0.963,
+   "method": "text",
+   "ours": 236
+  },
+  {
+   "n": 255,
+   "quality": 3,
+   "printed": "237",
+   "words": 517,
+   "pdf": 254,
+   "overlap": 0.965,
+   "method": "text",
+   "ours": 237
+  },
+  {
+   "n": 256,
+   "quality": 2,
+   "printed": "238",
+   "words": 0,
+   "pdf": 255,
+   "overlap": null,
+   "method": "inferred (too-short)",
+   "ours": 238
+  },
+  {
+   "n": 257,
+   "quality": 2,
+   "printed": "239",
+   "words": 0,
+   "pdf": 256,
+   "overlap": null,
+   "method": "inferred (too-short)",
+   "ours": 239
+  },
+  {
+   "n": 258,
+   "quality": 3,
+   "printed": "240",
+   "words": 490,
+   "pdf": 257,
+   "overlap": 0.963,
+   "method": "text",
+   "ours": 240
+  },
+  {
+   "n": 259,
+   "quality": 3,
+   "printed": "241",
+   "words": 450,
+   "pdf": 258,
+   "overlap": 0.939,
+   "method": "text",
+   "ours": 241
+  },
+  {
+   "n": 260,
+   "quality": 3,
+   "printed": "242",
+   "words": 515,
+   "pdf": 259,
+   "overlap": 0.962,
+   "method": "text",
+   "ours": 242
+  },
+  {
+   "n": 261,
+   "quality": 3,
+   "printed": "243",
+   "words": 505,
+   "pdf": 260,
+   "overlap": 0.962,
+   "method": "text",
+   "ours": 243
+  },
+  {
+   "n": 262,
+   "quality": 3,
+   "printed": "244",
+   "words": 553,
+   "pdf": 261,
+   "overlap": 0.965,
+   "method": "text",
+   "ours": 244
+  },
+  {
+   "n": 263,
+   "quality": 3,
+   "printed": "245",
+   "words": 527,
+   "pdf": 262,
+   "overlap": 0.968,
+   "method": "text",
+   "ours": 245
+  },
+  {
+   "n": 264,
+   "quality": 3,
+   "printed": "246",
+   "words": 519,
+   "pdf": 263,
+   "overlap": 0.936,
+   "method": "text",
+   "ours": 246
+  },
+  {
+   "n": 265,
+   "quality": 3,
+   "printed": "247",
+   "words": 504,
+   "pdf": 264,
+   "overlap": 0.964,
+   "method": "text",
+   "ours": 247
+  },
+  {
+   "n": 266,
+   "quality": 3,
+   "printed": "248",
+   "words": 502,
+   "pdf": 265,
+   "overlap": 0.959,
+   "method": "text",
+   "ours": 248
+  },
+  {
+   "n": 267,
+   "quality": 3,
+   "printed": "249",
+   "words": 523,
+   "pdf": 266,
+   "overlap": 0.971,
+   "method": "text",
+   "ours": 249
+  },
+  {
+   "n": 268,
+   "quality": 3,
+   "printed": "250",
+   "words": 524,
+   "pdf": 267,
+   "overlap": 0.971,
+   "method": "text",
+   "ours": 250
+  },
+  {
+   "n": 269,
+   "quality": 3,
+   "printed": "251",
+   "words": 528,
+   "pdf": 268,
+   "overlap": 0.973,
+   "method": "text",
+   "ours": 251
+  },
+  {
+   "n": 270,
+   "quality": 4,
+   "printed": "252",
+   "words": 426,
+   "pdf": 269,
+   "overlap": 0.957,
+   "method": "text",
+   "ours": 252
+  },
+  {
+   "n": 271,
+   "quality": 3,
+   "printed": "253",
+   "words": 267,
+   "pdf": 270,
+   "overlap": 0.954,
+   "method": "text",
+   "ours": 253
+  },
+  {
+   "n": 272,
+   "quality": 3,
+   "printed": "254",
+   "words": 331,
+   "pdf": 271,
+   "overlap": 0.973,
+   "method": "text",
+   "ours": 254
+  },
+  {
+   "n": 273,
+   "quality": 3,
+   "printed": "255",
+   "words": 478,
+   "pdf": 272,
+   "overlap": 0.951,
+   "method": "text",
+   "ours": 255
+  },
+  {
+   "n": 274,
+   "quality": 3,
+   "printed": "256",
+   "words": 515,
+   "pdf": 273,
+   "overlap": 0.965,
+   "method": "text",
+   "ours": 256
+  },
+  {
+   "n": 275,
+   "quality": 3,
+   "printed": "257",
+   "words": 522,
+   "pdf": 274,
+   "overlap": 0.971,
+   "method": "text",
+   "ours": 257
+  },
+  {
+   "n": 276,
+   "quality": 3,
+   "printed": "258",
+   "words": 481,
+   "pdf": 275,
+   "overlap": 0.952,
+   "method": "text",
+   "ours": 258
+  },
+  {
+   "n": 277,
+   "quality": 3,
+   "printed": "259",
+   "words": 502,
+   "pdf": 276,
+   "overlap": 0.922,
+   "method": "text",
+   "ours": 259
+  },
+  {
+   "n": 278,
+   "quality": 3,
+   "printed": "260",
+   "words": 512,
+   "pdf": 277,
+   "overlap": 0.964,
+   "method": "text",
+   "ours": 260
+  },
+  {
+   "n": 279,
+   "quality": 2,
+   "printed": "261",
+   "words": 331,
+   "pdf": 278,
+   "overlap": 0.991,
+   "method": "text",
+   "ours": 261
+  },
+  {
+   "n": 280,
+   "quality": 2,
+   "printed": "262",
+   "words": 396,
+   "pdf": 279,
+   "overlap": 0.977,
+   "method": "text",
+   "ours": 262
+  },
+  {
+   "n": 281,
+   "quality": 3,
+   "printed": "263",
+   "words": 501,
+   "pdf": 280,
+   "overlap": 0.968,
+   "method": "text",
+   "ours": 263
+  },
+  {
+   "n": 282,
+   "quality": 3,
+   "printed": "264",
+   "words": 522,
+   "pdf": 281,
+   "overlap": 0.924,
+   "method": "text",
+   "ours": 264
+  },
+  {
+   "n": 283,
+   "quality": 3,
+   "printed": "265",
+   "words": 467,
+   "pdf": 282,
+   "overlap": 0.91,
+   "method": "text",
+   "ours": 265
+  },
+  {
+   "n": 284,
+   "quality": 3,
+   "printed": "266",
+   "words": 497,
+   "pdf": 283,
+   "overlap": 0.959,
+   "method": "text",
+   "ours": 266
+  },
+  {
+   "n": 296,
+   "quality": 3,
+   "printed": null,
+   "words": 305,
+   "pdf": 295,
+   "overlap": 0.98,
+   "method": "text",
+   "ours": 278
+  },
+  {
+   "n": 343,
+   "quality": 3,
+   "printed": "325",
+   "words": 356,
+   "pdf": 342,
+   "overlap": 0.96,
+   "method": "text",
+   "ours": 325
+  },
+  {
+   "n": 418,
+   "quality": 3,
+   "printed": "400",
+   "words": 387,
+   "pdf": 417,
+   "overlap": 1,
+   "method": "text",
+   "ours": 400
+  },
+  {
+   "n": 419,
+   "quality": 3,
+   "printed": "401",
+   "words": 394,
+   "pdf": 418,
+   "overlap": 0.992,
+   "method": "text",
+   "ours": 401
+  },
+  {
+   "n": 424,
+   "quality": 3,
+   "printed": "406",
+   "words": 416,
+   "pdf": 423,
+   "overlap": 1,
+   "method": "text",
+   "ours": 406
+  },
+  {
+   "n": 429,
+   "quality": 3,
+   "printed": "411",
+   "words": 365,
+   "pdf": 428,
+   "overlap": 1,
+   "method": "text",
+   "ours": 411
+  },
+  {
+   "n": 432,
+   "quality": 3,
+   "printed": "414",
+   "words": 412,
+   "pdf": 431,
+   "overlap": 0.997,
+   "method": "text",
+   "ours": 414
+  },
+  {
+   "n": 436,
+   "quality": 3,
+   "printed": "418",
+   "words": 381,
+   "pdf": 435,
+   "overlap": 0.91,
+   "method": "text",
+   "ours": 418
+  },
+  {
+   "n": 437,
+   "quality": 3,
+   "printed": "419",
+   "words": 395,
+   "pdf": 436,
+   "overlap": 0.992,
+   "method": "text",
+   "ours": 419
+  },
+  {
+   "n": 438,
+   "quality": 3,
+   "printed": "420",
+   "words": 392,
+   "pdf": 437,
+   "overlap": 1,
+   "method": "text",
+   "ours": 420
+  },
+  {
+   "n": 439,
+   "quality": 3,
+   "printed": "421",
+   "words": 390,
+   "pdf": 438,
+   "overlap": 1,
+   "method": "text",
+   "ours": 421
+  },
+  {
+   "n": 440,
+   "quality": 4,
+   "printed": "422",
+   "words": 364,
+   "pdf": 439,
+   "overlap": 0.997,
+   "method": "text",
+   "ours": 422
+  },
+  {
+   "n": 441,
+   "quality": 4,
+   "printed": "423",
+   "words": 415,
+   "pdf": 440,
+   "overlap": 0.985,
+   "method": "text",
+   "ours": 423
+  },
+  {
+   "n": 442,
+   "quality": 4,
+   "printed": "424",
+   "words": 375,
+   "pdf": 441,
+   "overlap": 0.989,
+   "method": "text",
+   "ours": 424
+  },
+  {
+   "n": 443,
+   "quality": 4,
+   "printed": "425",
+   "words": 448,
+   "pdf": 442,
+   "overlap": 1,
+   "method": "text",
+   "ours": 425
+  },
+  {
+   "n": 444,
+   "quality": 3,
+   "printed": "426",
+   "words": 309,
+   "pdf": 443,
+   "overlap": 0.99,
+   "method": "text",
+   "ours": 426
+  },
+  {
+   "n": 445,
+   "quality": 3,
+   "printed": "427",
+   "words": 416,
+   "pdf": 444,
+   "overlap": 0.962,
+   "method": "text",
+   "ours": 427
+  },
+  {
+   "n": 446,
+   "quality": 3,
+   "printed": "428",
+   "words": 236,
+   "pdf": 445,
+   "overlap": 1,
+   "method": "text",
+   "ours": 428
+  },
+  {
+   "n": 447,
+   "quality": 3,
+   "printed": null,
+   "words": 135,
+   "pdf": 446,
+   "overlap": null,
+   "method": "inferred (unmatched)",
+   "ours": 429
+  },
+  {
+   "n": 448,
+   "quality": 3,
+   "printed": "430",
+   "words": 101,
+   "pdf": 447,
+   "overlap": null,
+   "method": "inferred (unmatched)",
+   "ours": 430
+  },
+  {
+   "n": 449,
+   "quality": 3,
+   "printed": null,
+   "words": 184,
+   "pdf": 448,
+   "overlap": null,
+   "method": "inferred (unmatched)",
+   "ours": 431
+  },
+  {
+   "n": 450,
+   "quality": 3,
+   "printed": "432",
+   "words": 288,
+   "pdf": 449,
+   "overlap": null,
+   "method": "inferred (unmatched)",
+   "ours": 432
+  },
+  {
+   "n": 451,
+   "quality": 3,
+   "printed": "433",
+   "words": 276,
+   "pdf": 450,
+   "overlap": 0.563,
+   "method": "text",
+   "ours": 433
+  },
+  {
+   "n": 452,
+   "quality": 3,
+   "printed": "434",
+   "words": 311,
+   "pdf": 451,
+   "overlap": 0.933,
+   "method": "text",
+   "ours": 434
+  },
+  {
+   "n": 453,
+   "quality": 3,
+   "printed": "435",
+   "words": 331,
+   "pdf": 452,
+   "overlap": 0.89,
+   "method": "text",
+   "ours": 435
+  },
+  {
+   "n": 454,
+   "quality": 3,
+   "printed": "436",
+   "words": 324,
+   "pdf": 453,
+   "overlap": 0.944,
+   "method": "text",
+   "ours": 436
+  },
+  {
+   "n": 455,
+   "quality": 3,
+   "printed": "437",
+   "words": 325,
+   "pdf": 454,
+   "overlap": 0.921,
+   "method": "text",
+   "ours": 437
+  },
+  {
+   "n": 456,
+   "quality": 3,
+   "printed": "438",
+   "words": 99,
+   "pdf": 455,
+   "overlap": 0.583,
+   "method": "text",
+   "ours": 438
+  },
+  {
+   "n": 457,
+   "quality": 3,
+   "printed": null,
+   "words": 185,
+   "pdf": 456,
+   "overlap": 1,
+   "method": "text",
+   "ours": 439
+  },
+  {
+   "n": 458,
+   "quality": 3,
+   "printed": "440",
+   "words": 226,
+   "pdf": 457,
+   "overlap": 0.955,
+   "method": "text",
+   "ours": 440
+  },
+  {
+   "n": 459,
+   "quality": 3,
+   "printed": "441",
+   "words": 229,
+   "pdf": 458,
+   "overlap": 1,
+   "method": "text",
+   "ours": 441
+  },
+  {
+   "n": 460,
+   "quality": 3,
+   "printed": "442",
+   "words": 238,
+   "pdf": 459,
+   "overlap": 1,
+   "method": "text",
+   "ours": 442
+  },
+  {
+   "n": 461,
+   "quality": 3,
+   "printed": "443",
+   "words": 254,
+   "pdf": 460,
+   "overlap": 0.957,
+   "method": "text",
+   "ours": 443
+  },
+  {
+   "n": 462,
+   "quality": 3,
+   "printed": "444",
+   "words": 251,
+   "pdf": 461,
+   "overlap": 0.979,
+   "method": "text",
+   "ours": 444
+  },
+  {
+   "n": 463,
+   "quality": 3,
+   "printed": "445",
+   "words": 250,
+   "pdf": 462,
+   "overlap": 1,
+   "method": "text",
+   "ours": 445
+  },
+  {
+   "n": 464,
+   "quality": 3,
+   "printed": "446",
+   "words": 261,
+   "pdf": 463,
+   "overlap": 1,
+   "method": "text",
+   "ours": 446
+  },
+  {
+   "n": 465,
+   "quality": 3,
+   "printed": "447",
+   "words": 107,
+   "pdf": 464,
+   "overlap": 1,
+   "method": "text",
+   "ours": 447
+  },
+  {
+   "n": 466,
+   "quality": 0,
+   "printed": null,
+   "words": 0,
+   "pdf": 465,
+   "overlap": null,
+   "method": "inferred (too-short)",
+   "ours": 448
+  },
+  {
+   "n": 467,
+   "quality": 3,
+   "printed": null,
+   "words": 272,
+   "pdf": 466,
+   "overlap": 0.978,
+   "method": "text",
+   "ours": 449
+  },
+  {
+   "n": 468,
+   "quality": 3,
+   "printed": "450",
+   "words": 389,
+   "pdf": 467,
+   "overlap": 0.986,
+   "method": "text",
+   "ours": 450
+  },
+  {
+   "n": 469,
+   "quality": 3,
+   "printed": "451",
+   "words": 5,
+   "pdf": 468,
+   "overlap": 0.967,
+   "method": "text",
+   "ours": 451
+  },
+  {
+   "n": 470,
+   "quality": 3,
+   "printed": "452",
+   "words": 0,
+   "pdf": 469,
+   "overlap": 0.923,
+   "method": "text",
+   "ours": 452
+  },
+  {
+   "n": 471,
+   "quality": 3,
+   "printed": "453",
+   "words": 127,
+   "pdf": 470,
+   "overlap": 0.949,
+   "method": "text",
+   "ours": 453
+  },
+  {
+   "n": 472,
+   "quality": 3,
+   "printed": "454",
+   "words": 0,
+   "pdf": 471,
+   "overlap": 0.94,
+   "method": "text",
+   "ours": 454
+  },
+  {
+   "n": 473,
+   "quality": 3,
+   "printed": "455",
+   "words": 37,
+   "pdf": 472,
+   "overlap": 0.944,
+   "method": "text",
+   "ours": 455
+  },
+  {
+   "n": 474,
+   "quality": 3,
+   "printed": "456",
+   "words": 71,
+   "pdf": 473,
+   "overlap": 0.959,
+   "method": "text",
+   "ours": 456
+  },
+  {
+   "n": 475,
+   "quality": 3,
+   "printed": "457",
+   "words": 0,
+   "pdf": 474,
+   "overlap": 0.932,
+   "method": "text",
+   "ours": 457
+  },
+  {
+   "n": 476,
+   "quality": 3,
+   "printed": "458",
+   "words": 61,
+   "pdf": 475,
+   "overlap": 0.911,
+   "method": "text",
+   "ours": 458
+  },
+  {
+   "n": 477,
+   "quality": 3,
+   "printed": "459",
+   "words": 0,
+   "pdf": 476,
+   "overlap": 0.943,
+   "method": "text",
+   "ours": 459
+  },
+  {
+   "n": 478,
+   "quality": 3,
+   "printed": "460",
+   "words": 0,
+   "pdf": 477,
+   "overlap": 0.915,
+   "method": "text",
+   "ours": 460
+  },
+  {
+   "n": 479,
+   "quality": 3,
+   "printed": "461",
+   "words": 0,
+   "pdf": 478,
+   "overlap": 0.895,
+   "method": "text",
+   "ours": 461
+  },
+  {
+   "n": 480,
+   "quality": 3,
+   "printed": "462",
+   "words": 171,
+   "pdf": 479,
+   "overlap": 0.915,
+   "method": "text",
+   "ours": 462
+  },
+  {
+   "n": 481,
+   "quality": 3,
+   "printed": "463",
+   "words": 0,
+   "pdf": 480,
+   "overlap": 0.953,
+   "method": "text",
+   "ours": 463
+  },
+  {
+   "n": 482,
+   "quality": 3,
+   "printed": "464",
+   "words": 0,
+   "pdf": 481,
+   "overlap": 0.955,
+   "method": "text",
+   "ours": 464
+  },
+  {
+   "n": 483,
+   "quality": 3,
+   "printed": "465",
+   "words": 0,
+   "pdf": 482,
+   "overlap": 0.918,
+   "method": "text",
+   "ours": 465
+  },
+  {
+   "n": 484,
+   "quality": 3,
+   "printed": "466",
+   "words": 27,
+   "pdf": 483,
+   "overlap": 0.904,
+   "method": "text",
+   "ours": 466
+  },
+  {
+   "n": 485,
+   "quality": 3,
+   "printed": "467",
+   "words": 23,
+   "pdf": 484,
+   "overlap": 0.908,
+   "method": "text",
+   "ours": 467
+  },
+  {
+   "n": 486,
+   "quality": 3,
+   "printed": "468",
+   "words": 0,
+   "pdf": 485,
+   "overlap": 0.913,
+   "method": "text",
+   "ours": 468
+  },
+  {
+   "n": 487,
+   "quality": 3,
+   "printed": "469",
+   "words": 19,
+   "pdf": 486,
+   "overlap": 0.927,
+   "method": "text",
+   "ours": 469
+  },
+  {
+   "n": 488,
+   "quality": 3,
+   "printed": "470",
+   "words": 73,
+   "pdf": 487,
+   "overlap": 0.946,
+   "method": "text",
+   "ours": 470
+  },
+  {
+   "n": 489,
+   "quality": 3,
+   "printed": "471",
+   "words": 140,
+   "pdf": 488,
+   "overlap": 0.922,
+   "method": "text",
+   "ours": 471
+  },
+  {
+   "n": 490,
+   "quality": 3,
+   "printed": "472",
+   "words": 66,
+   "pdf": 489,
+   "overlap": 0.932,
+   "method": "text",
+   "ours": 472
+  },
+  {
+   "n": 491,
+   "quality": 3,
+   "printed": "473",
+   "words": 85,
+   "pdf": 490,
+   "overlap": 0.935,
+   "method": "text",
+   "ours": 473
+  },
+  {
+   "n": 492,
+   "quality": 3,
+   "printed": "474",
+   "words": 33,
+   "pdf": 491,
+   "overlap": 0.949,
+   "method": "text",
+   "ours": 474
+  },
+  {
+   "n": 493,
+   "quality": 3,
+   "printed": "475",
+   "words": 30,
+   "pdf": 492,
+   "overlap": 0.944,
+   "method": "text",
+   "ours": 475
+  },
+  {
+   "n": 494,
+   "quality": 3,
+   "printed": "476",
+   "words": 0,
+   "pdf": 493,
+   "overlap": 0.955,
+   "method": "text",
+   "ours": 476
+  },
+  {
+   "n": 495,
+   "quality": 3,
+   "printed": "477",
+   "words": 0,
+   "pdf": 494,
+   "overlap": 0.891,
+   "method": "text",
+   "ours": 477
+  },
+  {
+   "n": 496,
+   "quality": 3,
+   "printed": "478",
+   "words": 23,
+   "pdf": 495,
+   "overlap": 0.915,
+   "method": "text",
+   "ours": 478
+  },
+  {
+   "n": 497,
+   "quality": 3,
+   "printed": "479",
+   "words": 0,
+   "pdf": 496,
+   "overlap": 0.952,
+   "method": "text",
+   "ours": 479
+  },
+  {
+   "n": 498,
+   "quality": 3,
+   "printed": "480",
+   "words": 640,
+   "pdf": 497,
+   "overlap": 0.932,
+   "method": "text",
+   "ours": 480
+  },
+  {
+   "n": 499,
+   "quality": 3,
+   "printed": "481",
+   "words": 8,
+   "pdf": 498,
+   "overlap": 0.874,
+   "method": "text",
+   "ours": 481
+  },
+  {
+   "n": 500,
+   "quality": 3,
+   "printed": "482",
+   "words": 48,
+   "pdf": 499,
+   "overlap": 0.907,
+   "method": "text",
+   "ours": 482
+  },
+  {
+   "n": 501,
+   "quality": 3,
+   "printed": "483",
+   "words": 12,
+   "pdf": 500,
+   "overlap": 0.915,
+   "method": "text",
+   "ours": 483
+  },
+  {
+   "n": 502,
+   "quality": 3,
+   "printed": "484",
+   "words": 41,
+   "pdf": 501,
+   "overlap": 0.885,
+   "method": "text",
+   "ours": 484
+  },
+  {
+   "n": 503,
+   "quality": 3,
+   "printed": "485",
+   "words": 0,
+   "pdf": 502,
+   "overlap": 0.932,
+   "method": "text",
+   "ours": 485
+  },
+  {
+   "n": 504,
+   "quality": 3,
+   "printed": "486",
+   "words": 0,
+   "pdf": 503,
+   "overlap": 0.872,
+   "method": "text",
+   "ours": 486
+  },
+  {
+   "n": 505,
+   "quality": 3,
+   "printed": "487",
+   "words": 0,
+   "pdf": 504,
+   "overlap": 0.902,
+   "method": "text",
+   "ours": 487
+  },
+  {
+   "n": 506,
+   "quality": 3,
+   "printed": "488",
+   "words": 98,
+   "pdf": 505,
+   "overlap": 0.953,
+   "method": "text",
+   "ours": 488
+  }
+ ]
+}

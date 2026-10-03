@@ -1,0 +1,42 @@
+<noinclude><pagequality level="4" user="KINGDM76" /></noinclude>{{inline-block|10.|2em}}WARTIME{{gap}}{{spl|325|18}}{{br}}
+{{left margin|2em|{{fine block|
+{{inline-block|10.1|3em}}Immediate Responses at Home{{gap}}{{spl|326|18}}{{br}}
+{{inline-block|10.2|3em}}Planning for War{{gap}}{{spl|330|18}}{{br}}
+{{inline-block|10.3|3em}}“Phase Two” and the Question of Iraq{{gap}}{{spl|334|18}}{{br}}
+}}}}
+
+{{inline-block|11.|2em}}FORESIGHT—AND HINDSIGHT{{gap}}{{spl|339|18}}{{br}}
+{{left margin|2em|{{fine block|
+{{inline-block|11.1|3em}}Imagination{{gap}}{{spl|339|18}}{{br}}
+{{inline-block|11.2|3em}}Policy{{gap}}{{spl|348|18}}{{br}}
+{{inline-block|11.3|3em}}Capabilities{{gap}}{{spl|350|18}}{{br}}
+{{inline-block|11.4|3em}}Management{{gap}}{{spl|353|18}}{{br}}
+}}}}
+
+{{inline-block|12.|2em}}WHAT TO DO? A GLOBAL STRATEGY{{gap}}{{spl|361|18}}{{br}}
+{{left margin|2em|{{fine block|
+{{inline-block|12.1|3em}}Reflecting on a Generational Challenge{{gap}}{{spl|361|18}}{{br}}
+{{inline-block|12.2|3em}}Attack Terrorists and Their Organizations{{gap}}{{spl|365|18}}{{br}}
+{{inline-block|12.3|3em}}Prevent the Continued Growth of Islamist Terrorism{{gap}}{{spl|374|18}}{{br}}
+{{inline-block|12.4|3em}}Protect against and Prepare for Terrorist Attacks{{gap}}{{spl|383|18}}{{br}}
+}}}}
+
+{{inline-block|13.|2em}}HOW TO DO IT? A DIFFERENT WAY OF ORGANIZING THE GOVERNMENT{{gap}}{{spl|399|18}}{{br}}
+{{left margin|2em|{{fine block|
+{{inline-block|13.1|3em}}Unity of Effort across the Foreign–Domestic Divide{{gap}}{{spl|400|18}}{{br}}
+{{inline-block|13.2|3em}}Unity of Effort in the Intelligence Community{{gap}}{{spl|407|18}}{{br}}
+{{inline-block|13.3|3em}}Unity of Effort in Sharing Information{{gap}}{{spl|416|18}}{{br}}
+{{inline-block|13.4|3em}}Unity of Effort in the Congress{{gap}}{{spl|419|18}}{{br}}
+{{inline-block|13.5|3em}}Organizing America’s Defenses in the United States{{gap}}{{spl|423|18}}{{br}}
+}}}}
+
+{{italic block|
+[[9/11 Commission Report/Appendices#A|Appendix A: Common Abbreviations]]{{gap}}{{spl|429|18}}
+
+[[9/11 Commission Report/Appendices#B|Appendix B: Table of Names]]{{gap}}{{spl|431|18}} 
+
+[[9/11 Commission Report/Appendices#C|Appendix C: Commission Hearings]]{{gap}}{{spl|439|18}} 
+
+[[9/11 Commission Report/Notes|Notes]]{{gap}}{{spl|449|18}}
+}}
+{{nop}}<noinclude>{{rvh|vii}}</noinclude>

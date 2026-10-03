@@ -1,0 +1,21 @@
+<noinclude><pagequality level="2" user="SciWhiz12" /></noinclude>[[File:911 commission seal black on white.svg|center|100px]]
+
+{{c|{{x-larger|COMMISSION<br />MEMBERS}}}}
+
+{| {{ts|ac|mc|w50}}
+|-
+| {{ts|w50}} | {{signature}}Thomas H. Kean{{br}}{{asc|CHAIR}}
+| {{ts|w50}} | {{signature}}Lee H. Hamilton{{br}}{{asc|VICE CHAIR}}
+|-
+| {{signature}}Richard Ben-Veniste
+| {{signature}}Bob Kerrey 
+|-
+| {{signature}}Fred F. Fielding 
+| {{signature}}John F. Lehman 
+|-
+| {{signature}}Jamie S. Gorelick 
+| {{signature}}Timothy J. Roemer
+|-
+| {{signature}}Slade Gorton 
+| {{signature}}James R. Thompson 
+|}<noinclude></noinclude>

@@ -2,7 +2,7 @@
 
 Pages: 585  ·  Footnotes: 1742  ·  Auto-fixes applied: 0  ·  Human corrections: 0
 
-**74 open**, 0 reviewed and judged correct.
+**75 open**, 0 reviewed and judged correct.
 
 OCR suspects below are a **review queue, not errors**. Whether the text is
 faithful to the scan is a human judgement; these are the places most likely
@@ -90,3 +90,4 @@ file under `dismissed:` and the entry leaves this queue for good.
 | possible | edition text not in the PDF | `Samir al Ani` | Vol 1 · PDF p.448 | Ahmad Khalil Ibrahim Samir al Ani |
 | possible | PDF text not in the edition | `BOSTON Boston Center New York Cleveland Center Center NEW YORK NEW CLEVELAND YORK Indianapolis Center INDIANAPOLIS FAA A` | Vol 1 · PDF p.32 | 41 words: BOSTON Boston Center New York Cleveland Center Center NEW YORK NEW CLEVELAND YORK Indianapolis Center INDIANAPOLIS FAA Air Traffic Control Centers Northeast Air Defense Sector (NEADS) Otis NORAD Air Force Headquarters Base Langley Air Force Base Continental Aerospace Command Region (CONR |
 | possible | PDF text not in the edition | `of hijacking (South Tower) 8:46 NEADS scrambles Otis fighter 9:15 New York Center advises jets in search of AA 11 NEADS ` | Vol 1 · PDF p.49 | 28 words: of hijacking (South Tower) 8:46 NEADS scrambles Otis fighter 9:15 New York Center advises jets in search of AA 11 NEADS that UA 175 was the |
+| possible | PDF page not in the edition | `Executive Office of the President FinalCh12_13.4pp POTUS National Intelligence Director 7/17/04 Staff National Counterte` | Vol 1 · PDF p.430 | 117 words, none in the edition: Executive Office of the President FinalCh12_13.4pp POTUS National Intelligence Director 7/17/04 Staff National Counterterrorism Center 4:14 PM Hire,Train,Acquire, Equip & Field National Intelligence Centers (agencies support / staff the Nat’l Intel Centers) (conduct “joint” collection and analysis - |

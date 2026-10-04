@@ -114,12 +114,13 @@ function splitRunOnNotes(notes: EditionNote[], chapter: number): void {
  * A handful of markers are plain digits in the HTML, not `<sup>`
  * ("…for jihad training.52", "…Inspector General.86We will"). Only the next
  * number in the chapter's sequence, straight after sentence punctuation, is
- * taken for one.
+ * taken for one. A clock time is not: "at 8:42 the United 175 flight crew"
+ * fell on Chapter 1's next note, 42 (reportsthatmatter-gq4j).
  */
 function recoverPlainMarkers(blocks: EditionBlock[], chapter: number): void {
   let expected = 1;
   const fix = (text: string): string =>
-    text.replace(/\[\^(\d+)-\d+\]|(?<=[.,;:?!"')*])(\d{1,3})(?=\s|$|[A-Z])/g, (whole, marker: string | undefined, plain: string | undefined, at: number, all: string) => {
+    text.replace(/\[\^(\d+)-\d+\]|(?<=[.,;:?!"')*])(?<!\d:)(\d{1,3})(?=\s|$|[A-Z])/g, (whole, marker: string | undefined, plain: string | undefined, at: number, all: string) => {
       if (marker) {
         expected = Number(marker) + 1;
         return whole;

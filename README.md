@@ -9,6 +9,10 @@ States, transmitted to the President and Congress on 22 July 2004.
 Commission at <https://www.9-11commission.gov/report/911Report.pdf>. Public
 domain (work of the U.S. Government). See `datapackage.json` for details.
 
+## Licence
+
+Text of the report: Treated as public domain (a US federal commission's report, published by the Commission and GPO); third-party photo credits excluded. Not fully confirmed. Our markup, processing and editorial additions: CC BY 4.0. Code: MIT. Evidence, caveats and the full statement are in [LICENSE](LICENSE); the MIT text is in [LICENSE-MIT](LICENSE-MIT).
+
 ## Build
 
 `ingest.ts` declares how the report is turned into Markdown. Rebuild from the
